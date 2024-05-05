@@ -1,14 +1,6 @@
 # dc_project
 
-
-negative data uniprot: all? choice of species
-ok if reduce to swissprot
+data_pos_neg.csv columns:\[eine id falls existent sonst von mir festgelegt, name wie auf database genannt wird, description sind random info oft einfach leer, OX= organism oder spezies oder ähnlich\]
 
 
-for positive data:
-have internal identifiers, not sure on how to remove duplicates, also what if swquence exact same
-all datasets?
-unified database, definition? part of project?
 
-identifiers
-algorithms
