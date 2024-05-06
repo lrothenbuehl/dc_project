@@ -1,0 +1,5 @@
+MissingInputException in rule create_database in file Z:\projects\dc_project\Snakefile, line 5:
+Missing input files for rule create_database:
+    output: 02 - Data Curation/unified.db
+    affected files:
+        01 - Data Extraction/data_pos_neg.csv02 - Data Curation/DB creation normalized.ipynb
