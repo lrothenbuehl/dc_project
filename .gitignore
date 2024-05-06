@@ -1,6 +1,5 @@
 *.fasta
 *.txt
-*.csv
 initial_project_data.ipynb
 *.XML
 *.xls
