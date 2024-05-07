@@ -4,7 +4,7 @@ FROM python:3.11
 # Set the working directory in the container
 WORKDIR /app
 
-COPY . /
+COPY /00-Utils/Docker-ipnyb-execution/requirements.txt /00-Utils/Docker-ipnyb-execution/requirements.txt
 
 # Install Jupyter
 RUN pip install --no-cache-dir -r "/00-Utils/Docker-ipnyb-execution/requirements.txt"
