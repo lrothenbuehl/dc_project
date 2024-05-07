@@ -19,4 +19,5 @@ EXPOSE 8888
 ENV NAME World
 
 # Run Jupyter Notebook when the container launches using the correct JSON array format
-CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
+CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''"]
+
