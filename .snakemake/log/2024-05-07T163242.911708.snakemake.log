@@ -1,0 +1,21 @@
+Building DAG of jobs...
+Provided cores: 20
+Rules claiming more threads will be scaled down.
+Job stats:
+job                   count
+------------------  -------
+all                       1
+run_jupyter_server        1
+total                     2
+
+Select jobs to execute...
+Execute 1 jobs...
+
+[Tue May  7 16:32:42 2024]
+localrule run_jupyter_server:
+    input: 00-Utils/Docker-images/jupyter-server.tar
+    output: serverRunning
+    jobid: 3
+    reason: Code has changed since last execution
+    resources: tmpdir=C:\Users\Etienne\AppData\Local\Temp
+
