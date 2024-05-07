@@ -1,3 +1,7 @@
+import os
+
+cwd = os.getcwd().replace("\\","/")
+
 rule all:
     input: 
         "00-Utils/Docker-images/notebook-executor.tar",
@@ -43,8 +47,10 @@ rule run_jupyter_server:
     output:
         "serverRunning"
     run:
-        shell("docker load -i 00-Utils/Docker-images/jupyter-server.tar"),
-        shell("docker run -d -p 8888:8888 jupyter-server"),
+        #shell("echo 'Unpacking jupyter-server'"),
+        #shell("docker load -i 00-Utils/Docker-images/jupyter-server.tar"),
+        shell("echo 'Starting jupyter-server docker instance'"),
+        shell(f"docker run -it -v {cwd}:/app -d -p 8888:8888 jupyter-server"),
         shell("echo 'Starting jupyter-server: http://localhost:8888/tree?'")
         shell("echo 'running' > serverRunning")
         shell("start http://127.0.0.1:8888/tree?")
