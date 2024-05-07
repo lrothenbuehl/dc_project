@@ -1,32 +1,15 @@
-rule all:
-    input:
-        "02 - Data Curation/unified.db"
-        
 
-rule create_database:
+
+rule setup_docker:
     input:
-        "01 - Data Extraction/data_pos_neg.csv",
-        "02 - Data Curation/DB creation normalized.ipynb"
-    output:
-        "02 - Data Curation/unified.db"
-    container:
-        "python:3.11"
+        "00 - Utils/Docker/Dockerfile",
+        "00 - Utils/Docker/requirements.txt"
     log:
-        "logs/create_database.log"
-    notebook:
-        "02 - Data Curation/DB creation normalized.ipynb"
-
-
-rule validate_notebook:
-    input:
-        "02 - Data Curation/DB creation.ipynb"
-    output:
-        "02 - Data Curation/DB creation normalized.ipynb"
-    container:
-        "python:3.11"
-    log:
-        "logs/validate_notebooks.log"
-    script:
-        "02 - Data Curation/validate notebooks.py"
+        "logs/setup_docker.log"
+    shell:
+        """
+        start "Jupyter Server" /D "00 - Utils/Docker" "startDocker.bat" > {log} 2>&1
+        pause
+        """
 
     

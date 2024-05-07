@@ -1,5 +1,0 @@
-Building DAG of jobs...
-MissingInputException in rule all in file Z:\projects\dc_project\Snakefile, line 1:
-Missing input files for rule all:
-    affected files:
-        unified.db
