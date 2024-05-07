@@ -1,0 +1,6 @@
+Building DAG of jobs...
+MissingInputException in rule setup_docker in file Z:\projects\dc_project\Snakefile, line 3:
+Missing input files for rule setup_docker:
+    affected files:
+        00 - Utils/Docker/Dockerfile
+        00 - Utils/Docker/requirements.txt

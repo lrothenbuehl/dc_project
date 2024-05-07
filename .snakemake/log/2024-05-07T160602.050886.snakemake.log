@@ -1,0 +1,39 @@
+Building DAG of jobs...
+Provided cores: 20
+Rules claiming more threads will be scaled down.
+Job stats:
+job                                   count
+----------------------------------  -------
+all                                       1
+create_docker_image_jupyter_server        1
+total                                     2
+
+Select jobs to execute...
+Execute 1 jobs...
+
+[Tue May  7 16:06:02 2024]
+localrule create_docker_image_jupyter_server:
+    input: 00-Utils/Docker-jupyter-server/Dockerfile, 00-Utils/Docker-jupyter-server/requirements.txt
+    output: 00-Utils/Docker-images/jupyter-server.tar
+    log: logs/setup_jupyter-server.log
+    jobid: 2
+    reason: Missing output files: 00-Utils/Docker-images/jupyter-server.tar
+    resources: tmpdir=C:\Users\Etienne\AppData\Local\Temp
+
+[Tue May  7 16:06:59 2024]
+Finished job 2.
+1 of 2 steps (50%) done
+Select jobs to execute...
+Execute 1 jobs...
+
+[Tue May  7 16:06:59 2024]
+localrule all:
+    input: 00-Utils/Docker-images/notebook-executor.tar, 00-Utils/Docker-images/jupyter-server.tar
+    jobid: 0
+    reason: Input files updated by another job: 00-Utils/Docker-images/jupyter-server.tar
+    resources: tmpdir=C:\Users\Etienne\AppData\Local\Temp
+
+[Tue May  7 16:06:59 2024]
+Finished job 0.
+2 of 2 steps (100%) done
+Complete log: .snakemake\log\2024-05-07T160602.050886.snakemake.log

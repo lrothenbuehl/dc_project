@@ -1,0 +1,24 @@
+Building DAG of jobs...
+Provided cores: 10
+Rules claiming more threads will be scaled down.
+Job stats:
+job             count
+------------  -------
+setup_docker        1
+total               1
+
+Select jobs to execute...
+Execute 1 jobs...
+
+[Tue May  7 10:49:48 2024]
+localrule setup_docker:
+    input: 00 - Utils/Docker/Dockerfile, 00 - Utils/Docker/requirements.txt
+    log: logs/setup_docker.log
+    jobid: 0
+    reason: Forced execution
+    resources: tmpdir=C:\Users\Etienne\AppData\Local\Temp
+
+[Tue May  7 10:49:48 2024]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: .snakemake\log\2024-05-07T104948.535955.snakemake.log
