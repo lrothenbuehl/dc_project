@@ -47,4 +47,4 @@ rule run_jupyter_server:
         shell("docker run -d -p 8888:8888 jupyter-server"),
         shell("echo 'Starting jupyter-server: http://localhost:8888/tree?'")
         shell("echo 'running' > serverRunning")
-        shell("start http://127.0.0.1:8888/")
+        shell("start http://127.0.0.1:8888/tree?")
