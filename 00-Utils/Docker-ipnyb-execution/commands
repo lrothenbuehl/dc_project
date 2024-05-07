@@ -1,0 +1,2 @@
+ docker build -t notebook-executor -f .\00-Utils\Docker-ipnyb-execution\Dockerfile .
+ docker run -it -v "${PWD}:/app" -v "${PWD}/00-Utils/Docker-ipnyb-execution/output:/output" notebook-executor /02-Data_Curation/DB_creation.ipynb

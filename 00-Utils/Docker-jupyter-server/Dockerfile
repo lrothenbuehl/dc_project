@@ -10,7 +10,7 @@ COPY . /app
 
 # Install any needed packages specified in requirements.txt
 # Make sure the path to requirements.txt is correct relative to the context directory
-RUN pip install --no-cache-dir -r '00 - Utils/Docker/requirements.txt'
+RUN pip install --no-cache-dir -r '00-Utils/Docker/requirements.txt'
 
 # Make port 8888 available to the world outside this container
 EXPOSE 8888
@@ -19,5 +19,6 @@ EXPOSE 8888
 ENV NAME World
 
 # Run Jupyter Notebook when the container launches using the correct JSON array format
-CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''"]
+CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''", "--NotebookApp.disable_check_xsrf=True"]
+
 

@@ -1,0 +1,40 @@
+Building DAG of jobs...
+Provided cores: 20
+Rules claiming more threads will be scaled down.
+Job stats:
+job                                       count
+--------------------------------------  -------
+create_docker_images_notebook_executor        1
+total                                         1
+
+Select jobs to execute...
+Execute 1 jobs...
+
+[Tue May  7 15:41:34 2024]
+localrule create_docker_images_notebook_executor:
+    input: 00-Utils/Docker-ipnyb-execution/Dockerfile, 00-Utils/Docker-ipnyb-execution/requirements.txt, 00-Utils/Docker-ipnyb-execution/execute_notebook.sh
+    output: 00-Utils/Docker-ipnyb-execution/image/notebook-executor.tar
+    log: logs/setup_notebook-executor.log
+    jobid: 0
+    reason: Forced execution
+    resources: tmpdir=C:\Users\Etienne\AppData\Local\Temp
+
+[Tue May  7 15:41:34 2024]
+Error in rule create_docker_images_notebook_executor:
+    jobid: 0
+    input: 00-Utils/Docker-ipnyb-execution/Dockerfile, 00-Utils/Docker-ipnyb-execution/requirements.txt, 00-Utils/Docker-ipnyb-execution/execute_notebook.sh
+    output: 00-Utils/Docker-ipnyb-execution/image/notebook-executor.tar
+    log: logs/setup_notebook-executor.log (check log file(s) for error details)
+    shell:
+        
+        docker buildx -t notebook-executor -f 00-Utils/Docker-ipnyb-execution/Dockerfile . 
+        docker save  notebook-executor
+        ls -la 00-Utils/Docker-ipnyb-execution/image
+        
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake\log\2024-05-07T154134.561112.snakemake.log
+WorkflowError:
+At least one job did not complete successfully.
