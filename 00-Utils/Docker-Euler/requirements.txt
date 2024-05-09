@@ -1,0 +1,10 @@
+pandas
+jupyter
+openpyxl
+matplotlib
+NumPy
+Seaborn
+scikit-learn
+biopython
+rdkit
+tqdm
