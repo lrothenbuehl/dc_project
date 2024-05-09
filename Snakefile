@@ -41,16 +41,3 @@ rule create_docker_image_jupyter_server:
         shell("docker save -o 00-Utils/Docker-images/jupyter-server.tar jupyter-server")
         shell("echo 'Docker image saved.'")
 
-rule run_jupyter_server:
-    input: 
-        "00-Utils/Docker-images/jupyter-server.tar"
-    output:
-        "serverRunning"
-    run:
-        #shell("echo 'Unpacking jupyter-server'"),
-        #shell("docker load -i 00-Utils/Docker-images/jupyter-server.tar"),
-        shell("echo 'Starting jupyter-server docker instance'"),
-        shell(f"docker run -it -v {cwd}:/app -d -p 8888:8888 jupyter-server"),
-        shell("echo 'Starting jupyter-server: http://localhost:8888/tree?'")
-        shell("echo 'running' > serverRunning")
-        shell("start http://127.0.0.1:8888/tree?")
