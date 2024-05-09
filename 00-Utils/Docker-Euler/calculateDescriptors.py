@@ -10,9 +10,8 @@ abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 
-# Open SQLite table
 con = sqlite3.connect("unified.db")
-cur = con.cursor()
+
 
 # Import data into pandas DataFrame
 df = pd.read_sql_query("SELECT * FROM prod", con)
@@ -47,7 +46,7 @@ def process_dataframe(df, limit=None):
     return df_final
 
 # Process a limited number of rows for testing
-df_final = process_dataframe(df, limit=10)  # Modify '10' to whatever number of rows you want to test
+df_final = process_dataframe(df, limit=20)  # Modify '10' to whatever number of rows you want to test
 
 # Save the DataFrame to a new SQLite table
 df_final.drop('mol', axis=1, inplace=True)  # Drop the mol column as it's not needed in the database
@@ -58,3 +57,4 @@ print(df_final.head())
 
 con.commit()
 con.close()
+
