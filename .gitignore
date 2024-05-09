@@ -2,4 +2,5 @@
 initial_project_data.ipynb
 *.XML
 *.xls
+*.csv
 *.tar

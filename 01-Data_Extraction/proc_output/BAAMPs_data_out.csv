@@ -1,0 +1,991 @@
+id,name,AB,description,OX,dataset,seq
+1,Pleurocidin,1,gram neg,Escherichia coli ATCC 25922,BAAMPs_data.csv,GWGSFFKKAAHVGKHVGKAALTHYL
+1,Pleurocidin,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,GWGSFFKKAAHVGKHVGKAALTHYL
+1,Pleurocidin,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,GWGSFFKKAAHVGKHVGKAALTHYL
+1,Pleurocidin,1,gram pos,Enterococcus faecium ATCC 19434,BAAMPs_data.csv,GWGSFFKKAAHVGKHVGKAALTHYL
+1,Pleurocidin,1,gram pos,Propionibacterium acnes ATCC 6919,BAAMPs_data.csv,GWGSFFKKAAHVGKHVGKAALTHYL
+1,Pleurocidin,1,gram neg,Escherichia coli O-157 / ATCC 43895,BAAMPs_data.csv,GWGSFFKKAAHVGKHVGKAALTHYL
+1,Pleurocidin,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,GWGSFFKKAAHVGKHVGKAALTHYL
+1,Pleurocidin,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,GWGSFFKKAAHVGKHVGKAALTHYL
+2,LL-37,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Francisella tularensis novicida (BEI NR-13),BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Francisella tularensis novicida (BEI NR-13),BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Francisella tularensis novicida (BEI NR-13),BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans JP2,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans JP2,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans JP2,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans JP2,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans JP2,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans Y4,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans ATCC 29523,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans NCTC 9710 / ATCC 33384,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans VT726,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans VT726,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans VT726 ltx-,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+2,LL-37,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+3,BMAP-27,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+3,BMAP-27,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GRFKRFRKKFKKLFKKLSPVIPLLHL
+4,BMAP-28,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Staphylococcus aureus Smith diffuse (SD),BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Staphylococcus aureus Smith diffuse (SD),BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Staphylococcus aureus Smith diffuse (SD),BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Enterococcus faecalis ATCC 29212,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,gram pos,Enterococcus faecalis ATCC 29212,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida krusei ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+4,BMAP-28,1,yeast or fungus,Candida glabrata ,BAAMPs_data.csv,GGLRSLGRKILRAWKKYGPIIVPIIRI
+5,SMAP-29,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram neg,Stenotrophomonas maltophilia ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+5,SMAP-29,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,RGLRRLGRKIAHGVKKYGPTVLRIIRIA
+6,KSL,1,gram pos,Streptococcus mutans ATCC 25175,BAAMPs_data.csv,KKVVFKVKFK
+6,KSL,1,gram pos,Streptococcus mutans ATCC 25175,BAAMPs_data.csv,KKVVFKVKFK
+6,KSL,1,gram pos,Streptococcus mutans ATCC 25175,BAAMPs_data.csv,KKVVFKVKFK
+6,KSL,1,gram pos,Streptococcus mutans ATCC 25175,BAAMPs_data.csv,KKVVFKVKFK
+6,KSL,1,gram pos,Streptococcus mutans ATCC 25175,BAAMPs_data.csv,KKVVFKVKFK
+6,KSL,1,gram pos,Streptococcus mutans ATCC 25175,BAAMPs_data.csv,KKVVFKVKFK
+6,KSL,1,gram pos,Streptococcus mutans ATCC 25175,BAAMPs_data.csv,KKVVFKVKFK
+6,KSL,1,gram pos,Streptococcus mutans ATCC 25175,BAAMPs_data.csv,KKVVFKVKFK
+6,KSL,1,gram pos,Streptococcus mutans ATCC 25175,BAAMPs_data.csv,KKVVFKVKFK
+7,"F2,5,12W",1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,RWGRWLRKIRRWRPK
+7,"F2,5,12W",1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,RWGRWLRKIRRWRPK
+7,"F2,5,12W",1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,RWGRWLRKIRRWRPK
+7,"F2,5,12W",1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,RWGRWLRKIRRWRPK
+7,"F2,5,12W",1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,RWGRWLRKIRRWRPK
+7,"F2,5,12W",1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,RWGRWLRKIRRWRPK
+7,"F2,5,12W",1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,RWGRWLRKIRRWRPK
+7,"F2,5,12W",1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,RWGRWLRKIRRWRPK
+7,"F2,5,12W",1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,RWGRWLRKIRRWRPK
+7,"F2,5,12W",1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,RWGRWLRKIRRWRPK
+7,"F2,5,12W",1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,RWGRWLRKIRRWRPK
+8,LL-31,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNL
+8,LL-31,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNL
+8,LL-31,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNL
+8,LL-31,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNL
+8,LL-31,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNL
+8,LL-31,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNL
+8,LL-31,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNL
+9,LL7-31,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,RKSKEKIGKEFKRIVQRIKDFLRNL
+10,LL13-37,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,IGKEFKRIVQRIKDFLRNLVPRTES
+10,LL13-37,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,IGKEFKRIVQRIKDFLRNLVPRTES
+11,LL7-37,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,RKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+11,LL7-37,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,RKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+12,LL-19,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKR
+13,LL-25,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIK
+14,LL-13,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLGDFFRKSKEKI
+15,LL13-31,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,IGKEFKRIVQRIKDFLRNL
+16,LL7-25,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,RKSKEKIGKEFKRIVQRIK
+17,LL13-25,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,IGKEFKRIVQRIK
+18,LL19-37,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,RIVQRIKDFLRNLVPRTES
+19,KSL-W,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,KKVVFWVKFK
+19,KSL-W,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,KKVVFWVKFK
+19,KSL-W,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,KKVVFWVKFK
+19,KSL-W,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,KKVVFWVKFK
+19,KSL-W,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,KKVVFWVKFK
+19,KSL-W,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,KKVVFWVKFK
+19,KSL-W,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,KKVVFWVKFK
+19,KSL-W,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,KKVVFWVKFK
+20,KS-30,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,KSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+20,KS-30,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,KSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+20,KS-30,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,KSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+20,KS-30,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,KSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+21,KR-20,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,KRIVQRIKDFLRNLVPRTES
+21,KR-20,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,KRIVQRIKDFLRNLVPRTES
+21,KR-20,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,KRIVQRIKDFLRNLVPRTES
+22,KR-12,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,KRIVQRIKDFLR
+22,KR-12,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,KRIVQRIKDFLR
+22,KR-12,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,KRIVQRIKDFLR
+23,beta-Defensin 3,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,gram pos,Staphylococcus epidermidis MRSE287,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,gram pos,Staphylococcus epidermidis MRSE287,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,gram pos,Staphylococcus epidermidis MRSE287,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+23,beta-Defensin 3,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK
+24,NRC-16,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GWKKWLRKGAKHLGQAAIK
+24,NRC-16,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GWKKWLRKGAKHLGQAAIK
+24,NRC-16,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GWKKWLRKGAKHLGQAAIK
+24,NRC-16,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GWKKWLRKGAKHLGQAAIK
+24,NRC-16,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GWKKWLRKGAKHLGQAAIK
+25,Lactoferricin (17-30),1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,FKCRRWQWRMKKLG
+25,Lactoferricin (17-30),1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,FKCRRWQWRMKKLG
+25,Lactoferricin (17-30),1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,FKCRRWQWRMKKLG
+26,Lactoferrampin,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,WKLLSKAQEKFGKNKSR
+26,Lactoferrampin,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,WKLLSKAQEKFGKNKSR
+26,Lactoferrampin,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,WKLLSKAQEKFGKNKSR
+27,MUC7 12-mer-L,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,RKSYKCLHKRCR
+27,MUC7 12-mer-L,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,RKSYKCLHKRCR
+27,MUC7 12-mer-L,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,RKSYKCLHKRCR
+27,MUC7 12-mer-L,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,RKSYKCLHKRCR
+28,G10KHc,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KKHRKHRKHRKHGGSGGSKNLRRIIRKGIHIIKKYG
+29,MUC7 12-mer-L4,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,RKSYKALHKRAR
+29,MUC7 12-mer-L4,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,RKSYKALHKRAR
+29,MUC7 12-mer-L4,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,RKSYKALHKRAR
+30,MUC7 20-mer,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,LAHQKPFIRKSYKCLHKRCR
+30,MUC7 20-mer,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,LAHQKPFIRKSYKCLHKRCR
+30,MUC7 20-mer,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,LAHQKPFIRKSYKCLHKRCR
+30,MUC7 20-mer,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,LAHQKPFIRKSYKCLHKRCR
+31,HSn5 12 mer,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,AKRHHGYKRKFH
+31,HSn5 12 mer,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,AKRHHGYKRKFH
+31,HSn5 12 mer,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,AKRHHGYKRKFH
+31,HSn5 12 mer,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,AKRHHGYKRKFH
+31,HSn5 12 mer,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,AKRHHGYKRKFH
+32,Magainin-II,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,GIGKFLHSAKKFGKAFVGEIMNS
+32,Magainin-II,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,GIGKFLHSAKKFGKAFVGEIMNS
+32,Magainin-II,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,GIGKFLHSAKKFGKAFVGEIMNS
+32,Magainin-II,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GIGKFLHSAKKFGKAFVGEIMNS
+32,Magainin-II,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GIGKFLHSAKKFGKAFVGEIMNS
+32,Magainin-II,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GIGKFLHSAKKFGKAFVGEIMNS
+32,Magainin-II,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GIGKFLHSAKKFGKAFVGEIMNS
+32,Magainin-II,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GIGKFLHSAKKFGKAFVGEIMNS
+32,Magainin-II,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GIGKFLHSAKKFGKAFVGEIMNS
+32,Magainin-II,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GIGKFLHSAKKFGKAFVGEIMNS
+33,Lys-a1,1,gram pos,Streptococcus mutans ATCC 25175,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus mutans ATCC 25175,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus mutans ATCC 25175,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus mutans ATCC 25175,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus oralis ATCC 10557,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus oralis ATCC 10557,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus oralis ATCC 10557,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus oralis ATCC 10557,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus sanguinis ATCC 10556,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus sanguinis ATCC 10556,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus sanguinis ATCC 10556,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus parasanguinis ATCC 903,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus parasanguinis ATCC 903,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus parasanguinis ATCC 903,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus salivarius ATCC 7073,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus salivarius ATCC 7073,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus salivarius ATCC 7073,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus salivarius ATCC 7073,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus sobrinus ATCC 6715,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus sobrinus ATCC 6715,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus sobrinus ATCC 6715,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus sobrinus ATCC 6715,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus sobrinus ATCC 6715,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+33,Lys-a1,1,gram pos,Streptococcus sobrinus ATCC 6715,BAAMPs_data.csv,KIFGAIWPLALGALKNLIK
+34,AAP2,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,FHFFHHFFHFFHHF
+34,AAP2,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,FHFFHHFFHFFHHF
+35,CSP,1,gram pos,Streptococcus gordonii Challis (DL1),BAAMPs_data.csv,SGSLSTFFRLFNRSFTQALGK
+35,CSP,1,gram pos,Streptococcus sanguinis NY101,BAAMPs_data.csv,SGSLSTFFRLFNRSFTQALGK
+35,CSP,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,SGSLSTFFRLFNRSFTQALGK
+35,CSP,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,SGSLSTFFRLFNRSFTQALGK
+36,CSPC16,1,gram pos,Streptococcus gordonii Challis (DL1),BAAMPs_data.csv,TFFRLFNRSFTQALGK
+36,CSPC16,1,gram pos,Streptococcus sanguinis NY101,BAAMPs_data.csv,TFFRLFNRSFTQALGK
+36,CSPC16,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,TFFRLFNRSFTQALGK
+36,CSPC16,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,TFFRLFNRSFTQALGK
+37,G2,1,gram pos,Streptococcus gordonii Challis (DL1),BAAMPs_data.csv,KNLRIIRKGIHIIKKY
+37,G2,1,gram pos,Streptococcus sanguinis NY101,BAAMPs_data.csv,KNLRIIRKGIHIIKKY
+37,G2,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,KNLRIIRKGIHIIKKY
+37,G2,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,KNLRIIRKGIHIIKKY
+37,G2,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,KNLRIIRKGIHIIKKY
+37,G2,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,KNLRIIRKGIHIIKKY
+38,C16G2,1,gram pos,Streptococcus gordonii Challis (DL1),BAAMPs_data.csv,TFFRLFNRSFTQALGKGGGKNLRIIRKGIHIIKKY
+38,C16G2,1,gram pos,Streptococcus sanguinis NY101,BAAMPs_data.csv,TFFRLFNRSFTQALGKGGGKNLRIIRKGIHIIKKY
+38,C16G2,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,TFFRLFNRSFTQALGKGGGKNLRIIRKGIHIIKKY
+38,C16G2,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,TFFRLFNRSFTQALGKGGGKNLRIIRKGIHIIKKY
+38,C16G2,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,TFFRLFNRSFTQALGKGGGKNLRIIRKGIHIIKKY
+39,M8G2,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,TFFRLFNRGGGKNLRIIRKGIHIIKKY
+39,M8G2,1,gram pos,Streptococcus sanguinis NY101,BAAMPs_data.csv,TFFRLFNRGGGKNLRIIRKGIHIIKKY
+40,S6L3-33,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,FKKFWKWFRRF
+40,S6L3-33,1,gram pos,Streptococcus sanguinis NY101,BAAMPs_data.csv,FKKFWKWFRRF
+41,C16-33,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,TRRRLFNRSFTQALGKSGGGFKKFWKWFRRF
+41,C16-33,1,gram pos,Streptococcus sanguinis NY101,BAAMPs_data.csv,TRRRLFNRSFTQALGKSGGGFKKFWKWFRRF
+42,M8-33,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,TFFRLFNRSGGGFKKFWKWFRRF
+42,M8-33,1,gram pos,Streptococcus sanguinis NY101,BAAMPs_data.csv,TFFRLFNRSGGGFKKFWKWFRRF
+43,nisin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Listeria monocytogenes ATCC 7644,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Listeria monocytogenes ATCC 7644,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Listeria monocytogenes ATCC 7644,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Listeria monocytogenes ATCC 7644,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Listeria monocytogenes ATCC 7644,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Listeria monocytogenes ATCC 7644,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Listeria monocytogenes ATCC 7644,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Listeria monocytogenes ATCC 7644,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Listeria monocytogenes ATCC 7644,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+43,nisin,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+44,indolicidin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,ILPWKWPWWPWRR
+44,indolicidin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,ILPWKWPWWPWRR
+44,indolicidin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,ILPWKWPWWPWRR
+44,indolicidin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,ILPWKWPWWPWRR
+44,indolicidin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,ILPWKWPWWPWRR
+45,Cecropin A (1-7)-Melittin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,KWKLFKKIGAVLKVL
+45,Cecropin A (1-7)-Melittin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,KWKLFKKIGAVLKVL
+45,Cecropin A (1-7)-Melittin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,KWKLFKKIGAVLKVL
+45,Cecropin A (1-7)-Melittin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,KWKLFKKIGAVLKVL
+45,Cecropin A (1-7)-Melittin,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,KWKLFKKIGAVLKVL
+45,Cecropin A (1-7)-Melittin,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KWKLFKKIGAVLKVL
+45,Cecropin A (1-7)-Melittin,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KWKLFKKIGAVLKVL
+45,Cecropin A (1-7)-Melittin,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KWKLFKKIGAVLKVL
+45,Cecropin A (1-7)-Melittin,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KWKLFKKIGAVLKVL
+45,Cecropin A (1-7)-Melittin,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KWKLFKKIGAVLKVL
+45,Cecropin A (1-7)-Melittin,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KWKLFKKIGAVLKVL
+45,Cecropin A (1-7)-Melittin,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KWKLFKKIGAVLKVL
+46,HH15,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KRFRIRVRVIRK
+47,Bac2a,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RLARIVVIRVAR
+48,1026,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VQWRIRVRVIKK
+49,1029,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KQFRIRVRV
+50,1036,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VQFRIRVRIVIRK
+51,1037,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KRFRIRVRV
+51,1037,1,gram neg,Burkholderia cenocepacia ,BAAMPs_data.csv,KRFRIRVRV
+51,1037,1,gram neg,Burkholderia cenocepacia ,BAAMPs_data.csv,KRFRIRVRV
+51,1037,1,gram pos,Listeria monocytogenes ,BAAMPs_data.csv,KRFRIRVRV
+51,1037,1,gram pos,Listeria monocytogenes ,BAAMPs_data.csv,KRFRIRVRV
+51,1037,1,gram pos,Listeria monocytogenes ,BAAMPs_data.csv,KRFRIRVRV
+51,1037,1,gram neg,Pseudomonas aeruginosa PA14,BAAMPs_data.csv,KRFRIRVRV
+51,1037,1,gram neg,Pseudomonas aeruginosa PA14,BAAMPs_data.csv,KRFRIRVRV
+51,1037,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,KRFRIRVRV
+52,HH2,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VQLRIRVAVIRA
+53,1002 or L1002,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VQRWLIVWRIRK
+53,1002 or L1002,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VQRWLIVWRIRK
+53,1002 or L1002,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,VQRWLIVWRIRK
+54,1003,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,IVWKIKRWWVGR
+55,1004,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RFWKVRVKYIRF
+56,1008,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RIKWIVRFR
+57,HH7,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VRLRIRVAVRRA
+58,1010,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,IRWRIRVWVRRI
+59,1011,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RRWVVWRIVQRR
+60,1012 or L1012,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,IFWRRIVIVKKF
+60,1012 or L1012,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,IFWRRIVIVKKF
+60,1012 or L1012,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,IFWRRIVIVKKF
+61,1013,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VRLRIRVA
+62,1016,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,LRIRWIFKR
+63,HH8,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VRLRIRVAVIRK
+64,1020,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VRLRIRWWVLRK
+65,HH10,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KRFRIRVAVRRA
+66,1035,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KRWRWIVRNIRR
+67,1031,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,WRWRVRVWR
+68,IMB-2,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,TFFRLFNRGGGWGSFFKKAAHVGKL
+68,IMB-2,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,TFFRLFNRGGGWGSFFKKAAHVGKL
+73,Bac8c,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,RIWVIWRR
+73,Bac8c,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,RIWVIWRR
+74,PTP-7,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,FLGALFKALSKLL
+74,PTP-7,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,FLGALFKALSKLL
+74,PTP-7,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,FLGALFKALSKLL
+74,PTP-7,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,FLGALFKALSKLL
+74,PTP-7,1,gram pos,Staphylococcus aureus ATCC 29213,BAAMPs_data.csv,FLGALFKALSKLL
+74,PTP-7,1,gram pos,Staphylococcus aureus ATCC 29213,BAAMPs_data.csv,FLGALFKALSKLL
+74,PTP-7,1,gram pos,Staphylococcus aureus ATCC 29213,BAAMPs_data.csv,FLGALFKALSKLL
+75,Holothurioidin 1,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,HLGHHALDHLLK
+75,Holothurioidin 1,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,HLGHHALDHLLK
+75,Holothurioidin 1,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,HLGHHALDHLLK
+75,Holothurioidin 1,1,gram neg,Pseudomonas aeruginosa ATCC 15442,BAAMPs_data.csv,HLGHHALDHLLK
+76,Holothurioidin 2,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,ASHLGHHALDHLLK
+76,Holothurioidin 2,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,ASHLGHHALDHLLK
+76,Holothurioidin 2,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ASHLGHHALDHLLK
+76,Holothurioidin 2,1,gram neg,Pseudomonas aeruginosa ATCC 15442,BAAMPs_data.csv,ASHLGHHALDHLLK
+76,Holothurioidin 2,1,gram neg,Pseudomonas aeruginosa ATCC 15442,BAAMPs_data.csv,ASHLGHHALDHLLK
+77,Esculentin-1a(1-21),1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,GIFSKLAGKKIKNLLISGLKG
+77,Esculentin-1a(1-21),1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,GIFSKLAGKKIKNLLISGLKG
+77,Esculentin-1a(1-21),1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,GIFSKLAGKKIKNLLISGLKG
+77,Esculentin-1a(1-21),1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,GIFSKLAGKKIKNLLISGLKG
+77,Esculentin-1a(1-21),1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,GIFSKLAGKKIKNLLISGLKG
+77,Esculentin-1a(1-21),1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,GIFSKLAGKKIKNLLISGLKG
+77,Esculentin-1a(1-21),1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,GIFSKLAGKKIKNLLISGLKG
+77,Esculentin-1a(1-21),1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,GIFSKLAGKKIKNLLISGLKG
+78,Tn-AFP1,1,yeast or fungus,Candida tropicalis ,BAAMPs_data.csv,LMCTHPLDCSN
+79,coprisin,1,gram pos,Enterococcus faecium ATCC 19434,BAAMPs_data.csv,VTCDVLSFEAKGIAVNH
+79,coprisin,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,VTCDVLSFEAKGIAVNH
+79,coprisin,1,gram neg,Escherichia coli O-157 / ATCC 43895,BAAMPs_data.csv,VTCDVLSFEAKGIAVNH
+79,coprisin,1,gram neg,Escherichia coli ATCC 25922,BAAMPs_data.csv,VTCDVLSFEAKGIAVNH
+79,coprisin,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,VTCDVLSFEAKGIAVNH
+79,coprisin,1,gram pos,Streptococcus mutans KCTC 3065,BAAMPs_data.csv,VTCDVLSFEAKGIAVNH
+80,Histatin 5,1,yeast or fungus,Candida albicans CAF4-2,BAAMPs_data.csv,DSHAKRHHGYKRKFHEKHHSHRGY
+80,Histatin 5,1,yeast or fungus,Candida glabrata 90030,BAAMPs_data.csv,DSHAKRHHGYKRKFHEKHHSHRGY
+80,Histatin 5,1,yeast or fungus,Candida albicans ATCC 18804 / JCM 1542,BAAMPs_data.csv,DSHAKRHHGYKRKFHEKHHSHRGY
+80,Histatin 5,1,yeast or fungus,Candida albicans ATCC 18804 / JCM 1542,BAAMPs_data.csv,DSHAKRHHGYKRKFHEKHHSHRGY
+80,Histatin 5,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,DSHAKRHHGYKRKFHEKHHSHRGY
+81,Hst 5(4-15)-Spd,1,yeast or fungus,Candida albicans CAF4-2,BAAMPs_data.csv,AKRHHGYKRKFHGGG
+81,Hst 5(4-15)-Spd,1,yeast or fungus,Candida glabrata 90030,BAAMPs_data.csv,AKRHHGYKRKFHGGG
+82,dF17-6K,1,yeast or fungus,Candida albicans ,BAAMPs_data.csv,KKKKKKAAFAAWAAFAA
+82,dF17-6K,1,yeast or fungus,Candida albicans ,BAAMPs_data.csv,KKKKKKAAFAAWAAFAA
+82,dF17-6K,1,yeast or fungus,Candida tropicalis ,BAAMPs_data.csv,KKKKKKAAFAAWAAFAA
+82,dF17-6K,1,yeast or fungus,Candida tropicalis ,BAAMPs_data.csv,KKKKKKAAFAAWAAFAA
+83,dF21-10K,1,yeast or fungus,Candida albicans ,BAAMPs_data.csv,KKKKKKKKKKAAFAAWAAFAA
+83,dF21-10K,1,yeast or fungus,Candida albicans ,BAAMPs_data.csv,KKKKKKKKKKAAFAAWAAFAA
+83,dF21-10K,1,yeast or fungus,Candida tropicalis ,BAAMPs_data.csv,KKKKKKKKKKAAFAAWAAFAA
+83,dF21-10K,1,yeast or fungus,Candida tropicalis ,BAAMPs_data.csv,KKKKKKKKKKAAFAAWAAFAA
+84,CWR11,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,CWFWKWWRRRRR
+85,Chrysophsin-1,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,FFGWLIKGAIHAGKAIHGLIHRRRH
+85,Chrysophsin-1,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,FFGWLIKGAIHAGKAIHGLIHRRRH
+85,Chrysophsin-1,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,FFGWLIKGAIHAGKAIHGLIHRRRH
+86,RK1,1,gram neg,Escherichia coli  ATCC 8739,BAAMPs_data.csv,RWKRWWRRKK
+86,RK1,1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,RWKRWWRRKK
+86,RK1,1,yeast or fungus,Candida albicans ATCC 10231,BAAMPs_data.csv,RWKRWWRRKK
+87,RK2,1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,RKKRWWRRKK
+87,RK2,1,gram neg,Escherichia coli  ATCC 8739,BAAMPs_data.csv,RKKRWWRRKK
+87,RK2,1,yeast or fungus,Candida albicans ATCC 10231,BAAMPs_data.csv,RKKRWWRRKK
+88,(IRIK) 2,1,gram pos,Staphylococcus aureus ATCC 29737,BAAMPs_data.csv,IRIKIRIK
+88,(IRIK) 2,1,gram pos,Staphylococcus aureus ATCC 29737,BAAMPs_data.csv,IRIKIRIK
+88,(IRIK) 2,1,gram pos,Staphylococcus aureus ATCC 29737,BAAMPs_data.csv,IRIKIRIK
+88,(IRIK) 2,1,gram pos,Staphylococcus aureus ATCC 29737,BAAMPs_data.csv,IRIKIRIK
+88,(IRIK) 2,1,yeast or fungus,Candida albicans ,BAAMPs_data.csv,IRIKIRIK
+89,(IRVK) 3,1,gram pos,Staphylococcus aureus ATCC 29737,BAAMPs_data.csv,IRVKIRVKIRVK
+89,(IRVK) 3,1,gram pos,Staphylococcus aureus ATCC 29737,BAAMPs_data.csv,IRVKIRVKIRVK
+89,(IRVK) 3,1,gram pos,Staphylococcus aureus ATCC 29737,BAAMPs_data.csv,IRVKIRVKIRVK
+89,(IRVK) 3,1,gram pos,Staphylococcus aureus ATCC 29737,BAAMPs_data.csv,IRVKIRVKIRVK
+90,PG-1,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,RGGRLCYCRRRFCVCVGR
+90,PG-1,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,RGGRLCYCRRRFCVCVGR
+90,PG-1,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,RGGRLCYCRRRFCVCVGR
+90,PG-1,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,RGGRLCYCRRRFCVCVGR
+90,PG-1,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,RGGRLCYCRRRFCVCVGR
+90,PG-1,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,RGGRLCYCRRRFCVCVGR
+91,alpha-Defensin-3,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,DCYCRIPACIAGERRYGTCIYQGRLWAFCC
+91,alpha-Defensin-3,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,DCYCRIPACIAGERRYGTCIYQGRLWAFCC
+91,alpha-Defensin-3,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,DCYCRIPACIAGERRYGTCIYQGRLWAFCC
+91,alpha-Defensin-3,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,DCYCRIPACIAGERRYGTCIYQGRLWAFCC
+91,alpha-Defensin-3,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,DCYCRIPACIAGERRYGTCIYQGRLWAFCC
+91,alpha-Defensin-3,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,DCYCRIPACIAGERRYGTCIYQGRLWAFCC
+92,beta-Defensin-1,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK
+92,beta-Defensin-1,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK
+92,beta-Defensin-1,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK
+92,beta-Defensin-1,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK
+92,beta-Defensin-1,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK
+92,beta-Defensin-1,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK
+94,Magainin-I,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,GIGKFLHSAGKFGKAFVGEIMKS
+94,Magainin-I,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,GIGKFLHSAGKFGKAFVGEIMKS
+94,Magainin-I,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,GIGKFLHSAGKFGKAFVGEIMKS
+94,Magainin-I,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,GIGKFLHSAGKFGKAFVGEIMKS
+94,Magainin-I,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,GIGKFLHSAGKFGKAFVGEIMKS
+94,Magainin-I,1,yeast or fungus,Cryptococcus neoformans B3501,BAAMPs_data.csv,GIGKFLHSAGKFGKAFVGEIMKS
+95,RIP,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,YSPWTNF
+95,RIP,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,YSPWTNF
+95,RIP,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,YSPWTNF
+95,RIP,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,YSPWTNF
+95,RIP,1,gram pos,Staphylococcus aureus Smith diffuse (SD),BAAMPs_data.csv,YSPWTNF
+96,K4-S4(1–13)a,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,ALWKTLLKKVLKA
+96,K4-S4(1–13)a,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,ALWKTLLKKVLKA
+97,DD13-RIP,1,gram pos,Staphylococcus aureus ATCC 43300,BAAMPs_data.csv,ALWKTLLKKVLKAYSPWTNF
+97,DD13-RIP,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,ALWKTLLKKVLKAYSPWTNF
+98,Tachyplesin III,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,KWCFRVCYRGICYRKCR
+98,Tachyplesin III,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,KWCFRVCYRGICYRKCR
+98,Tachyplesin III,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,KWCFRVCYRGICYRKCR
+99,2C-4,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,RWRWRWF
+100,Sm6(L1)2C,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,FIKHFIHRFGGGRWRWRWF
+101,Sm6(L3)2C,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,FIKHFIHRFSATRWRWRWF
+102,B-33,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,FKKFWKWFRRF
+103,Sm6(L1)B33,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,FIKHFIHRFGGGFKKFWKWFRRF
+104,PSN-1,1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,FLSLIPHIVSGVASIAKHF
+105,NRC-16,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GWKKWLRKGAKHLGQAAIK
+105,NRC-16,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,GWKKWLRKGAKHLGQAAIK
+106,GL13K,1,gram neg,Porphyromonas gingivalis ATCC 33277,BAAMPs_data.csv,GKIIKLKASLKLL
+106,GL13K,1,gram neg,Porphyromonas gingivalis ATCC 33277,BAAMPs_data.csv,GKIIKLKASLKLL
+106,GL13K,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,GKIIKLKASLKLL
+106,GL13K,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,GKIIKLKASLKLL
+106,GL13K,1,gram pos,Streptococcus gordonii ,BAAMPs_data.csv,GKIIKLKASLKLL
+107,GK7,1,gram neg,Porphyromonas gingivalis ATCC 33277,BAAMPs_data.csv,GQIINLK
+108,(RW)2-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRW
+108,(RW)2-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRW
+108,(RW)2-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRW
+108,(RW)2-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRW
+108,(RW)2-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRW
+108,(RW)2-NH2,1,gram neg,Escherichia coli  HM22,BAAMPs_data.csv,RWRW
+109,(RW)3-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRW
+109,(RW)3-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRW
+109,(RW)3-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRW
+109,(RW)3-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRW
+109,(RW)3-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRW
+109,(RW)3-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRW
+109,(RW)3-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRW
+109,(RW)3-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRW
+109,(RW)3-NH2,1,gram neg,Escherichia coli  HM22,BAAMPs_data.csv,RWRWRW
+110,(RW)4-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRWRW
+110,(RW)4-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRWRW
+110,(RW)4-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRWRW
+110,(RW)4-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRWRW
+110,(RW)4-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRWRW
+110,(RW)4-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRWRW
+110,(RW)4-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRWRW
+110,(RW)4-NH2,1,gram neg,Escherichia coli RP437,BAAMPs_data.csv,RWRWRWRW
+110,(RW)4-NH2,1,gram neg,Escherichia coli  HM22,BAAMPs_data.csv,RWRWRWRW
+111,Lasio-III,1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram neg,Escherichia coli  ATCC 8739,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram neg,Escherichia coli  ATCC 8739,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram neg,Escherichia coli  ATCC 8739,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram neg,Escherichia coli  ATCC 8739,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram neg,Escherichia coli  ATCC 8739,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram neg,Pseudomonas aeruginosa ATCC9027,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram neg,Pseudomonas aeruginosa ATCC9027,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram neg,Pseudomonas aeruginosa ATCC9027,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram neg,Pseudomonas aeruginosa ATCC9027,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram neg,Pseudomonas aeruginosa ATCC9027,BAAMPs_data.csv,VNWKKILGKIIKVVK
+111,Lasio-III,1,gram neg,Pseudomonas aeruginosa ATCC9027,BAAMPs_data.csv,VNWKKILGKIIKVVK
+112,Melittin B,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,GIGAVLKVLTTGLPALISWIKRKRQQ
+112,Melittin B,1,gram pos,Streptococcus mutans ,BAAMPs_data.csv,GIGAVLKVLTTGLPALISWIKRKRQQ
+113,Melimine,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,TLISWIKNKRKQRPRVSRRRRRRGGRRRR
+113,Melimine,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,TLISWIKNKRKQRPRVSRRRRRRGGRRRR
+113,Melimine,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,TLISWIKNKRKQRPRVSRRRRRRGGRRRR
+113,Melimine,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,TLISWIKNKRKQRPRVSRRRRRRGGRRRR
+114,Melimine CysN,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,CTLISWIKNKRKQRPRVSRRRRRRGGRRRR
+114,Melimine CysN,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,CTLISWIKNKRKQRPRVSRRRRRRGGRRRR
+115,Melimine CysC,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,TLISWIKNKRKQRPRVSRRRRRRGGRRRRC
+115,Melimine CysC,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,TLISWIKNKRKQRPRVSRRRRRRGGRRRRC
+116,Melimine Cys13,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,TLISWIKNKRKQCRPRVSRRRRRRGGRRRR
+116,Melimine Cys13,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,TLISWIKNKRKQCRPRVSRRRRRRGGRRRR
+117,K4-S4(1-15)a,1,gram pos,Streptococcus mutans ATCC 27351,BAAMPs_data.csv,LWKTLLKKVLKAAA
+117,K4-S4(1-15)a,1,gram pos,Streptococcus mutans ATCC 27351,BAAMPs_data.csv,LWKTLLKKVLKAAA
+117,K4-S4(1-15)a,1,gram pos,Streptococcus mutans ATCC 27351,BAAMPs_data.csv,LWKTLLKKVLKAAA
+117,K4-S4(1-15)a,1,gram pos,Streptococcus mutans ATCC 27351,BAAMPs_data.csv,LWKTLLKKVLKAAA
+117,K4-S4(1-15)a,1,gram pos,Streptococcus mutans ATCC 27351,BAAMPs_data.csv,LWKTLLKKVLKAAA
+118,beta6-20-G3K6,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,NEEGFFSARGHRPLDGGGKKKKKK
+118,beta6-20-G3K6,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,NEEGFFSARGHRPLDGGGKKKKKK
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+120,hepcidin 20,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,ICIFCCGCCHRSKCGMCCKT
+121,NA-CATH,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,KRFKKFFKKLKNSVKKRAKKFFKKPKVIGVTFPF
+121,NA-CATH,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,KRFKKFFKKLKNSVKKRAKKFFKKPKVIGVTFPF
+121,NA-CATH,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,KRFKKFFKKLKNSVKKRAKKFFKKPKVIGVTFPF
+121,NA-CATH,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRFKKFFKKLKNSVKKRAKKFFKKPKVIGVTFPF
+121,NA-CATH,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRFKKFFKKLKNSVKKRAKKFFKKPKVIGVTFPF
+121,NA-CATH,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRFKKFFKKLKNSVKKRAKKFFKKPKVIGVTFPF
+121,NA-CATH,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRFKKFFKKLKNSVKKRAKKFFKKPKVIGVTFPF
+121,NA-CATH,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRFKKFFKKLKNSVKKRAKKFFKKPKVIGVTFPF
+122,NA-CATH-ATRA1-ATRA1,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,KRFKKFFKKLKNSVKKRFKKFFKKLKVIGVTFPF
+122,NA-CATH-ATRA1-ATRA1,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,KRFKKFFKKLKNSVKKRFKKFFKKLKVIGVTFPF
+122,NA-CATH-ATRA1-ATRA1,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,KRFKKFFKKLKNSVKKRFKKFFKKLKVIGVTFPF
+123,Lactoferricin B (17-41),1,yeast or fungus,Candida albicans ,BAAMPs_data.csv,FKCRRWQWRMKKLGAPSITCVRRAF
+123,Lactoferricin B (17-41),1,yeast or fungus,Aspergillus fumigatus ,BAAMPs_data.csv,FKCRRWQWRMKKLGAPSITCVRRAF
+123,Lactoferricin B (17-41),1,yeast or fungus,Fusarium solani ,BAAMPs_data.csv,FKCRRWQWRMKKLGAPSITCVRRAF
+124,D-LL-37,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+124,D-LL-37,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+124,D-LL-37,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+124,D-LL-37,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+124,D-LL-37,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+124,D-LL-37,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+124,D-LL-37,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+124,D-LL-37,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES
+125,Scrambled LL-37,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,GLKLRFEFSKIKGEFLKTPEVRFRDIKLKDNRISVQR
+125,Scrambled LL-37,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,GLKLRFEFSKIKGEFLKTPEVRFRDIKLKDNRISVQR
+125,Scrambled LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans JP2,BAAMPs_data.csv,GLKLRFEFSKIKGEFLKTPEVRFRDIKLKDNRISVQR
+125,Scrambled LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans ATCC 29523,BAAMPs_data.csv,GLKLRFEFSKIKGEFLKTPEVRFRDIKLKDNRISVQR
+125,Scrambled LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans Y4,BAAMPs_data.csv,GLKLRFEFSKIKGEFLKTPEVRFRDIKLKDNRISVQR
+125,Scrambled LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans NCTC 9710 / ATCC 33384,BAAMPs_data.csv,GLKLRFEFSKIKGEFLKTPEVRFRDIKLKDNRISVQR
+125,Scrambled LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans VT726,BAAMPs_data.csv,GLKLRFEFSKIKGEFLKTPEVRFRDIKLKDNRISVQR
+125,Scrambled LL-37,1,gram neg,Aggregatibacter actinomycetemcomitans VT726 ltx-,BAAMPs_data.csv,GLKLRFEFSKIKGEFLKTPEVRFRDIKLKDNRISVQR
+125,Scrambled LL-37,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,GLKLRFEFSKIKGEFLKTPEVRFRDIKLKDNRISVQR
+125,Scrambled LL-37,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,GLKLRFEFSKIKGEFLKTPEVRFRDIKLKDNRISVQR
+125,Scrambled LL-37,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,GLKLRFEFSKIKGEFLKTPEVRFRDIKLKDNRISVQR
+125,Scrambled LL-37,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,GLKLRFEFSKIKGEFLKTPEVRFRDIKLKDNRISVQR
+126,Citropin 1.1,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,GLFDVIKKVASVIGGL
+127,R-FV-I16,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,RFRRLFRIRVRVLKKI
+127,R-FV-I16,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,RFRRLFRIRVRVLKKI
+127,R-FV-I16,1,gram neg,Escherichia coli ATCC 25922,BAAMPs_data.csv,RFRRLFRIRVRVLKKI
+127,R-FV-I16,1,gram neg,Escherichia coli ATCC 25922,BAAMPs_data.csv,RFRRLFRIRVRVLKKI
+127,R-FV-I16,1,gram neg,Escherichia coli ATCC 25922,BAAMPs_data.csv,RFRRLFRIRVRVLKKI
+127,R-FV-I16,1,gram neg,Escherichia coli ATCC 25922,BAAMPs_data.csv,RFRRLFRIRVRVLKKI
+127,R-FV-I16,1,gram neg,Escherichia coli ATCC 25922,BAAMPs_data.csv,RFRRLFRIRVRVLKKI
+127,R-FV-I16,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,RFRRLFRIRVRVLKKI
+127,R-FV-I16,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,RFRRLFRIRVRVLKKI
+127,R-FV-I16,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,RFRRLFRIRVRVLKKI
+128,FV7,1,gram neg,Escherichia coli ATCC 25922,BAAMPs_data.csv,FRIRVRV
+128,FV7,1,gram neg,Escherichia coli ATCC 25922,BAAMPs_data.csv,FRIRVRV
+128,FV7,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,FRIRVRV
+128,FV7,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,FRIRVRV
+131,L-K6,1,gram pos,Streptococcus mutans CGMCC 1.2500,BAAMPs_data.csv,IKKILSKIKKLLK
+131,L-K6,1,gram pos,Streptococcus mutans CGMCC 1.2500,BAAMPs_data.csv,IKKILSKIKKLLK
+131,L-K6,1,gram pos,Streptococcus mutans CGMCC 1.2500,BAAMPs_data.csv,IKKILSKIKKLLK
+131,L-K6,1,gram pos,Streptococcus mutans CGMCC 1.2500,BAAMPs_data.csv,IKKILSKIKKLLK
+133,hLf1-11,1,gram pos,Streptococcus sanguinis ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus sanguinis ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus sanguinis ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus sanguinis ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus sanguinis ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus sanguinis ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Lactobacillus salivarius ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Lactobacillus salivarius ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Lactobacillus salivarius ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus sanguinis ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus sanguinis ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus sanguinis ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus sanguinis ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus salivarius ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus salivarius ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus salivarius ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus salivarius ,BAAMPs_data.csv,GRRRRSVQWCA
+133,hLf1-11,1,gram pos,Streptococcus salivarius ,BAAMPs_data.csv,GRRRRSVQWCA
+134,FS3,1,gram pos,Staphylococcus aureus Smith diffuse (SD),BAAMPs_data.csv,YAPWTNF
+134,FS3,1,gram pos,Staphylococcus aureus Smith diffuse (SD),BAAMPs_data.csv,YAPWTNF
+135,Tet-213,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,KRWWKWWRRC
+135,Tet-213,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,KRWWKWWRRC
+136,1010cys,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,IRWRIRVWVRRIC
+137,Tet-20,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,KRWRIRVRVIRKC
+138,Tet-26,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,WIVVIWRRKRRRC
+139,FS8,1,gram pos,Staphylococcus aureus Smith diffuse (SD),BAAMPs_data.csv,YAPWTNA
+140,Chromofungin,1,yeast or fungus,Candida albicans ,BAAMPs_data.csv,RILSILRHQNLLKELQDLAL
+140,Chromofungin,1,yeast or fungus,Candida albicans ,BAAMPs_data.csv,RILSILRHQNLLKELQDLAL
+144,Magainin I,1,gram pos,Listeria iavanovii Li4pVS2,BAAMPs_data.csv,GIGLFLHSAGLFGLAFVGEIMKS
+144,Magainin I,1,gram pos,Listeria iavanovii Li4pVS2,BAAMPs_data.csv,GIGLFLHSAGLFGLAFVGEIMKS
+144,Magainin I,1,gram pos,Enterococcus faecalis ,BAAMPs_data.csv,GIGLFLHSAGLFGLAFVGEIMKS
+144,Magainin I,1,gram pos,Staphylococcus aureus ATCC 29213,BAAMPs_data.csv,GIGLFLHSAGLFGLAFVGEIMKS
+145,CysLasio-III,1,gram neg,Escherichia coli  ATCC 8739,BAAMPs_data.csv,CVNWKKILGKIIKVVK
+145,CysLasio-III,1,gram pos,Enterococcus faecalis ATCC 29212,BAAMPs_data.csv,CVNWKKILGKIIKVVK
+146,DASamP1,1,gram pos,Staphylococcus aureus USA300 LAC,BAAMPs_data.csv,FFGKVLKLIRKIF
+147,BMAP-18,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,GRWKRWRKKWKKLWKKLS
+148,Bactenecin,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,RLCRIVVIRVCR
+149,CA-MA,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,KWKLFKKIGIGKFLHSAKKF
+150,RTA3,1,gram neg,Burkholderia pseudomallei ,BAAMPs_data.csv,RPAFRKAAFRVMRACV
+151,Dhvar4,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,KRLFKKLLFSLRKY
+152,Dhvar5,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,LLLFLLKKRKKRKY
+152,Dhvar5,1,gram pos,Staphylococcus aureus ATCC33591,BAAMPs_data.csv,LLLFLLKKRKKRKY
+152,Dhvar5,1,gram pos,Staphylococcus aureus ATCC33591,BAAMPs_data.csv,LLLFLLKKRKKRKY
+153,KABT-AMP,1,yeast or fungus,Candida tropicalis ,BAAMPs_data.csv,GIWKKWIKKWLKKLLKKLWKKG
+153,KABT-AMP,1,yeast or fungus,Candida tropicalis ,BAAMPs_data.csv,GIWKKWIKKWLKKLLKKLWKKG
+157,P10  ,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,LAREYKKIVEKLKRWLRQVLRTLR
+157,P10  ,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,LAREYKKIVEKLKRWLRQVLRTLR
+157,P10  ,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,LAREYKKIVEKLKRWLRQVLRTLR
+157,P10  ,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,LAREYKKIVEKLKRWLRQVLRTLR
+157,P10  ,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,LAREYKKIVEKLKRWLRQVLRTLR
+158,P60.4Ac    ,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,IGKEFKRIVERIKRFLRELVRPLR
+158,P60.4Ac    ,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,IGKEFKRIVERIKRFLRELVRPLR
+158,P60.4Ac    ,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,IGKEFKRIVERIKRFLRELVRPLR
+158,P60.4Ac    ,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,IGKEFKRIVERIKRFLRELVRPLR
+159,OSIP108,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,MLCVLQGLRE
+159,OSIP108,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,MLCVLQGLRE
+159,OSIP108,1,yeast or fungus,Candida albicans CAI-4,BAAMPs_data.csv,MLCVLQGLRE
+159,OSIP108,1,yeast or fungus,Candida albicans DAY286,BAAMPs_data.csv,MLCVLQGLRE
+159,OSIP108,1,yeast or fungus,Candida albicans CAF2,BAAMPs_data.csv,MLCVLQGLRE
+159,OSIP108,1,yeast or fungus,Candida albicans B2630,BAAMPs_data.csv,MLCVLQGLRE
+159,OSIP108,1,yeast or fungus,Candida albicans B63195,BAAMPs_data.csv,MLCVLQGLRE
+159,OSIP108,1,yeast or fungus,Candida glabrata BG2,BAAMPs_data.csv,MLCVLQGLRE
+159,OSIP108,1,yeast or fungus,Candida dubliniensis NCPF 3949,BAAMPs_data.csv,MLCVLQGLRE
+159,OSIP108,1,yeast or fungus,Candida krusei ,BAAMPs_data.csv,MLCVLQGLRE
+160,S-OSIP108,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,ELRLVCMGQL
+161,D-OSIP108,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,mlcvlqglre
+162,[CYC1]OSIP108,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,MLCVLQGLRE
+163,[CYC2]OSIP108,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,MLCVLQGLREGG
+164,[CYC3]OSIP108,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,MLCVLQGLREC
+166,1018 or IDR-1018,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Pseudomonas aeruginosa PA14,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Pseudomonas aeruginosa PA14,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Burkholderia cenocepacia ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Burkholderia cenocepacia ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Escherichia coli ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Escherichia coli ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Klebsiella pneumoniae ATCC 13883,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Klebsiella pneumoniae ATCC 13883,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Salmonella enterica Typhimurium ATCC14028,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Salmonella enterica Typhimurium ATCC14028,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Burkholderia multivorans ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Burkholderia ambifaria ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Burkholderia cenocepacia ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Burkholderia dolosa ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Burkholderia stabilis ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Pseudomonas aeruginosa PA14,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Pseudomonas aeruginosa PA14,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Burkholderia cenocepacia ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VRLIVAVRIWRR
+166,1018 or IDR-1018,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,VRLIVAVRIWRR
+167,HE1 or RI1018,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RRWIRVAVILRV
+167,HE1 or RI1018,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,RRWIRVAVILRV
+170,HE4,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,VRLIWAVRIWRR
+170,HE4,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,VRLIWAVRIWRR
+171,HE10,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,VRLIVRIWRR
+171,HE10,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,VRLIVRIWRR
+172,HE12,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,RFKRVARVIW
+172,HE12,1,gram pos,Staphylococcus aureus ,BAAMPs_data.csv,RFKRVARVIW
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus aureus ATCC 29213,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus aureus ATCC 29213,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus aureus ATCC 29213,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus aureus ATCC 29213,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus aureus ATCC 6538,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram neg,Pseudomonas aeruginosa ATCC 15442,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram neg,Pseudomonas aeruginosa ATCC 15442,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram neg,Pseudomonas aeruginosa ATCC 15442,BAAMPs_data.csv,EVASFDKSKLK
+173,paracentrin 1 (SP1),1,gram neg,Pseudomonas aeruginosa ATCC 15442,BAAMPs_data.csv,EVASFDKSKLK
+174,GL13KR1,1,gram pos,Streptococcus gordonii ,BAAMPs_data.csv,IGIKLLKSKLKAL
+175,(IKIK)2,1,yeast or fungus,Candida albicans ,BAAMPs_data.csv,IKIKIKIK
+175,(IKIK)2,1,yeast or fungus,Candida albicans ,BAAMPs_data.csv,IKIKIKIK
+175,(IKIK)2,1,yeast or fungus,Candida albicans ,BAAMPs_data.csv,IKIKIKIK
+177,RI1012,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,FKKVIVIRRWFI
+177,RI1012,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,FKKVIVIRRWFI
+178,RI1002,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,KRIRWVILWRQV
+178,RI1002,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,KRIRWVILWRQV
+179,LJK1,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VFLRRIRVIVIR
+179,LJK1,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,VFLRRIRVIVIR
+180,DJK1,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,vflrrirvivir
+180,DJK1,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,vflrrirvivir
+181,RIJK1,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RIVIVRIRRLFV
+182,LJK2,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VFWRRIRVWVIR
+183,DJK2,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,vfwrrirvwvir
+184,RIJK2,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RIVWVRIRRWFV
+184,RIJK2,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,RIVWVRIRRWFV
+185,LJK3,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VQLRAIRVRVIR
+186,RIJK3,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RIVRVRIARLQV
+186,RIJK3,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,RIVRVRIARLQV
+187,DJK3,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,vqlrairvrvir
+188,LJK4,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VQLRRIRVWVIR
+188,LJK4,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,VQLRRIRVWVIR
+189,RIJK4,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RIVWVRIRRLQV
+189,RIJK4,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,RIVWVRIRRLQV
+190,DJK4,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,vqlrrirvwvir
+190,DJK4,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,vqlrrirvwvir
+191,LJK5,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VQWRAIRVRVIR
+192,RIJK5,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RIVRVRAIRWQV
+193,DJK5,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,vqwrairvrvir
+193,DJK5,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,vqwrairvrvir
+193,DJK5,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,vqwrairvrvir
+193,DJK5,1,gram neg,Escherichia coli O-157 / ATCC 43895,BAAMPs_data.csv,vqwrairvrvir
+193,DJK5,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,vqwrairvrvir
+193,DJK5,1,gram neg,Klebsiella pneumoniae ATCC 13883,BAAMPs_data.csv,vqwrairvrvir
+193,DJK5,1,gram neg,Salmonella enterica Typhimurium ATCC14028,BAAMPs_data.csv,vqwrairvrvir
+194,LJK6,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,VQWRRIRVWVIR
+194,LJK6,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,VQWRRIRVWVIR
+195,RIJK6,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,RIVWVRIRRWQV
+195,RIJK6,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,RIVWVRIRRWQV
+196,DJK6,1,gram neg,Pseudomonas aeruginosa ,BAAMPs_data.csv,vqwrrirvwvir
+196,DJK6,1,gram neg,Klebsiella pneumoniae LM21,BAAMPs_data.csv,vqwrrirvwvir
+196,DJK6,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,vqwrrirvwvir
+196,DJK6,1,gram neg,Escherichia coli O-157 / ATCC 43895,BAAMPs_data.csv,vqwrrirvwvir
+196,DJK6,1,gram neg,Acinetobacter baumannii ,BAAMPs_data.csv,vqwrrirvwvir
+196,DJK6,1,gram neg,Klebsiella pneumoniae ATCC 13883,BAAMPs_data.csv,vqwrrirvwvir
+196,DJK6,1,gram neg,Salmonella enterica Typhimurium ATCC14028,BAAMPs_data.csv,vqwrrirvwvir
+197,Dhvar5-Ct_AHA_C,1,gram pos,Staphylococcus aureus ATCC33591,BAAMPs_data.csv,LLLFLLKKRKKRKY
+197,Dhvar5-Ct_AHA_C,1,gram pos,Staphylococcus aureus ATCC33591,BAAMPs_data.csv,LLLFLLKKRKKRKY
+199,P15,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,GTPGPQGIAGQRGVV
+200,P15-CSP,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,GTPGPQGIAGQRGVVAEAAAKEAAAKEAAAKASGSLSTFFRLFNRSFTQALGK
+201,C_AHA_Nt-Dhvar5,1,gram pos,Staphylococcus aureus ATCC33591,BAAMPs_data.csv,LLLFLLKKRKKRKY
+201,C_AHA_Nt-Dhvar5,1,gram pos,Staphylococcus aureus ATCC33591,BAAMPs_data.csv,LLLFLLKKRKKRKY
+202,C_ABA_Nt-Dhvar5,1,gram pos,Staphylococcus aureus ATCC33591,BAAMPs_data.csv,LLLFLLKKRKKRKY
+203,C_GG_Nt-Dhvar5,1,gram pos,Staphylococcus aureus ATCC33591,BAAMPs_data.csv,CGGLLLFLLKKRKKRKY
+203,C_GG_Nt-Dhvar5,1,gram pos,Staphylococcus aureus ATCC33591,BAAMPs_data.csv,CGGLLLFLLKKRKKRKY
+204,KT2,1,gram neg,Escherichia coli O-157 / ATCC 43895,BAAMPs_data.csv,NGVQPKYKWWKWWKKWW
+205,RT2,1,gram neg,Escherichia coli O-157 / ATCC 43895,BAAMPs_data.csv,NGVQPKYRWWRWWRRWW
+206,O-LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+206,O-LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+207,DI-MB-LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+207,DI-MB-LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+207,DI-MB-LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+207,DI-MB-LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+207,DI-MB-LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+207,DI-MB-LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+208,6-MO-LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+208,6-MO-LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+209,LF11-322,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFWRIRIRR
+209,LF11-322,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFWRIRIRR
+210,DI-MB-LF11-322,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFWRIRIRR
+210,DI-MB-LF11-322,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFWRIRIRR
+210,DI-MB-LF11-322,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFWRIRIRR
+210,DI-MB-LF11-322,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFWRIRIRR
+210,DI-MB-LF11-322,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFWRIRIRR
+210,DI-MB-LF11-322,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFWRIRIRR
+211,6-MO-LF11-322,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFWRIRIRR
+211,6-MO-LF11-322,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFWRIRIRR
+212,LF11-324,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFFWRIRIRR
+212,LF11-324,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFFWRIRIRR
+212,LF11-324,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFFWRIRIRR
+212,LF11-324,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFFWRIRIRR
+212,LF11-324,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFFWRIRIRR
+212,LF11-324,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,PFFWRIRIRR
+213,LF11-227,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRRFWRR
+213,LF11-227,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRRFWRR
+213,LF11-227,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRRFWRR
+213,LF11-227,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRRFWRR
+213,LF11-227,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRRFWRR
+213,LF11-227,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRRFWRR
+214,O-LF11-227,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRRFWRR
+214,O-LF11-227,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRRFWRR
+215,6-MO-LF11-227,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRRFWRR
+215,6-MO-LF11-227,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRRFWRR
+216,LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+216,LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+216,LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+216,LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+216,LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+216,LF11-215,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,FWRIRIRR
+217,D-ATRA-1A,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,krakkffkklk
+217,D-ATRA-1A,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,krakkffkklk
+217,D-ATRA-1A,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,krakkffkklk
+217,D-ATRA-1A,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,krakkffkklk
+218,ATRA-1A,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRAKKFFKKLK
+218,ATRA-1A,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRAKKFFKKLK
+218,ATRA-1A,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRAKKFFKKLK
+218,ATRA-1A,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRAKKFFKKLK
+219,ATRA-2,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRAKKFFKKPK
+219,ATRA-2,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRAKKFFKKPK
+219,ATRA-2,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRAKKFFKKPK
+219,ATRA-2,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRAKKFFKKPK
+220,ATRA-1,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRFKKFFKKLK
+220,ATRA-1,1,,Burkholderia thailandensis E264/ATCC 700388,BAAMPs_data.csv,KRFKKFFKKLK
+221,All L-K6L9,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKLLKKLLKKLLKLL
+221,All L-K6L9,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKLLKKLLKKLLKLL
+221,All L-K6L9,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKLLKKLLKKLLKLL
+221,All L-K6L9,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKLLKKLLKKLLKLL
+221,All L-K6L9,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKLLKKLLKKLLKLL
+221,All L-K6L9,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKLLKKLLKKLLKLL
+221,All L-K6L9,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKLLKKLLKKLLKLL
+221,All L-K6L9,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKLLKKLLKKLLKLL
+222,"D,L-K6L9",1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKlLKkLlkKLLkLL
+222,"D,L-K6L9",1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKlLKkLlkKLLkLL
+222,"D,L-K6L9",1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKlLKkLlkKLLkLL
+222,"D,L-K6L9",1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKlLKkLlkKLLkLL
+222,"D,L-K6L9",1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKlLKkLlkKLLkLL
+222,"D,L-K6L9",1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKlLKkLlkKLLkLL
+222,"D,L-K6L9",1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKlLKkLlkKLLkLL
+222,"D,L-K6L9",1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKlLKkLlkKLLkLL
+222,"D,L-K6L9",1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LKlLKkLlkKLLkLL
+223,Seg5L,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,KKKLLLLLLLLLKKK
+223,Seg5L,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,KKKLLLLLLLLLKKK
+223,Seg5L,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,KKKLLLLLLLLLKKK
+223,Seg5L,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,KKKLLLLLLLLLKKK
+224,Seg5D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,KKkLLlLllLLLkKK
+224,Seg5D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,KKkLLlLllLLLkKK
+224,Seg5D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,KKkLLlLllLLLkKK
+224,Seg5D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,KKkLLlLllLLLkKK
+224,Seg5D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,KKkLLlLllLLLkKK
+224,Seg5D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,KKkLLlLllLLLkKK
+224,Seg5D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,KKkLLlLllLLLkKK
+225,Seg6L,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLLLLKKKKKKLLLL
+225,Seg6L,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLLLLKKKKKKLLLL
+225,Seg6L,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLLLLKKKKKKLLLL
+225,Seg6L,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLLLLKKKKKKLLLL
+225,Seg6L,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLLLLKKKKKKLLLL
+226,Seg6D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLlLLkKkkKKLlLL
+226,Seg6D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLlLLkKkkKKLlLL
+226,Seg6D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLlLLkKkkKKLlLL
+226,Seg6D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLlLLkKkkKKLlLL
+226,Seg6D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLlLLkKkkKKLlLL
+226,Seg6D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLlLLkKkkKKLlLL
+226,Seg6D,1,gram neg,Pseudomonas aeruginosa PAO1 / ATCC 15692 ,BAAMPs_data.csv,LLlLLkKkkKKLlLL
+229,lin-SB056,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,WKKIRVRLSA
+229,lin-SB056,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,WKKIRVRLSA
+230,lin-SB056-1,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,KWKIRVRLSA
+230,lin-SB056-1,1,gram pos,Staphylococcus epidermidis ATCC 35984,BAAMPs_data.csv,KWKIRVRLSA
+230,lin-SB056-1,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,KWKIRVRLSA
+231,Myxinidin2,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,KIKWILKYWKWS
+231,Myxinidin2,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,KIKWILKYWKWS
+232,Myxinidin3,1,gram neg,Pseudomonas aeruginosa ATCC 27853,BAAMPs_data.csv,RIRWILRYWRWS
+232,Myxinidin3,1,gram pos,Staphylococcus aureus ATCC 25923,BAAMPs_data.csv,RIRWILRYWRWS
+233,GH12,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus gordonii Challis (DL1),BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus gordonii Challis (DL1),BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus sanguinis ATCC 10556,BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus sanguinis ATCC 10556,BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus sobrinus ATCC 6715,BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus sobrinus ATCC 6715,BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus mutans Clarke UA159 / ATCC 700610,BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus gordonii Challis (DL1),BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus gordonii Challis (DL1),BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus sanguinis ATCC 10556,BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus sobrinus ATCC 6715,BAAMPs_data.csv,GLLWHLLHHLLH
+233,GH12,1,gram pos,Streptococcus sobrinus ATCC 6715,BAAMPs_data.csv,GLLWHLLHHLLH
+234,Pa-MAP 1.9,1,gram neg,Escherichia coli O-157 / ATCC 43895,BAAMPs_data.csv,LAAKLTKAATKLTAALTKLAAALT
+234,Pa-MAP 1.9,1,,Klebsiella pneumoniae ,BAAMPs_data.csv,LAAKLTKAATKLTAALTKLAAALT
+236,HsAFP1,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,DGVKLCDVPSGTWSGHCGSSSKCSQQCKDREHFAYGGACHYQFPSVKCFCKRQC
+237,HsLin06,1,yeast or fungus,Candida albicans ATCC-SC5314,BAAMPs_data.csv,EHFAYGGAXHYQFPSVKXFXKRQX

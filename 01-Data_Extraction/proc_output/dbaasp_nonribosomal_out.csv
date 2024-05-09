@@ -1,0 +1,654 @@
+id,name,AB,description,OX,dataset,seq
+DBAASPN_1688,"Gramicidin S, GS",1,None,alien,dbaasp_nonribosomal.txt,VXLfPVXLfP
+DBAASPN_3314,"Gratisin, GR",1,None,alien,dbaasp_nonribosomal.txt,VXLfPyVXLfPy
+DBAASPN_3316,"Tyrocidine A, TA",1,None,alien,dbaasp_nonribosomal.txt,fPFfNQYVXL
+DBAASPN_4876,Trichogin GA IV,1,None,alien,dbaasp_nonribosomal.txt,XGLXGGLXGIX
+DBAASPN_5374,Baceridin,1,None,alien,dbaasp_nonribosomal.txt,WaxVlL
+DBAASPN_5449,Gageostatin A,1,None,alien,dbaasp_nonribosomal.txt,ELLVDLL
+DBAASPN_5450,Gageostatin B,1,None,alien,dbaasp_nonribosomal.txt,ELLVDLL
+DBAASPN_5451,Gageostatin C,1,None,alien,dbaasp_nonribosomal.txt,ELLVDLL
+DBAASPN_5507,Gageotetrin A,1,None,alien,dbaasp_nonribosomal.txt,EL
+DBAASPN_5511,Gageotetrin B,1,None,alien,dbaasp_nonribosomal.txt,XLLL
+DBAASPN_5514,Gageotetrin C,1,None,alien,dbaasp_nonribosomal.txt,ELLL
+DBAASPN_5742,Champacyclin,1,None,alien,dbaasp_nonribosomal.txt,aIlfIIKx
+DBAASPN_5779,PE1,1,None,alien,dbaasp_nonribosomal.txt,XIXfLXvLT
+DBAASPN_5780,PE2,1,None,alien,dbaasp_nonribosomal.txt,XIXfLXvLT
+DBAASPN_5942,Laterocidin,1,None,alien,dbaasp_nonribosomal.txt,LVXLyPFfND
+DBAASPN_6090,Tyrocidine A1,1,None,alien,dbaasp_nonribosomal.txt,fPFfNQYVKL
+DBAASPN_6091,Tyrocidine B,1,None,alien,dbaasp_nonribosomal.txt,fPWfNQYVXL
+DBAASPN_6092,Tyrocidine B1,1,None,alien,dbaasp_nonribosomal.txt,fPWfNQYVKL
+DBAASPN_6093,Tyrocidine C,1,None,alien,dbaasp_nonribosomal.txt,fPWwNQYVXL
+DBAASPN_6094,Tyrocidine C1,1,None,alien,dbaasp_nonribosomal.txt,fPWwNQYVKL
+DBAASPN_6306,Gramicidin A,1,None,alien,dbaasp_nonribosomal.txt,VGAlAvVvWlWlWlW
+DBAASPN_6578,Verrucamide A,1,None,alien,dbaasp_nonribosomal.txt,XSVXGVXVXVXGIX
+DBAASPN_6579,Verrucamide B,1,None,alien,dbaasp_nonribosomal.txt,XSVXGVXVXVXGIX
+DBAASPN_6580,Verrucamide C,1,None,alien,dbaasp_nonribosomal.txt,XSVXGVXVXVXGVX
+DBAASPN_6582,Verrucamide D,1,None,alien,dbaasp_nonribosomal.txt,XSVXGVXVXVXGVX
+DBAASPN_6733,"Cyclo(D-Tyr-D-Phe), Diketopiperazine (yf)",1,None,alien,dbaasp_nonribosomal.txt,yf
+DBAASPN_6739,"Cyclo(D-Pro-L-Leu), Diketopiperazine (pL)",1,None,alien,dbaasp_nonribosomal.txt,pL
+DBAASPN_6740,"Cyclo(Pro-Met), S.sp. DKP-MP",1,None,alien,dbaasp_nonribosomal.txt,PM
+DBAASPN_6741,"Cyclo(D-Pro-L-Phe), Diketopiperazine (pF)",1,None,alien,dbaasp_nonribosomal.txt,pF
+DBAASPN_6742,"Cyclo(Pro-Phe), Diketopiperazine (PF)",1,None,alien,dbaasp_nonribosomal.txt,PF
+DBAASPN_6743,"Cyclo(Pro-Tyr), Diketopiperazine (PY)",1,None,alien,dbaasp_nonribosomal.txt,PY
+DBAASPN_6744,"Cyclo(L-Pro-D-Tyr), Diketopiperazine (Py)",1,None,alien,dbaasp_nonribosomal.txt,Py
+DBAASPN_6745,"Cyclo(Leu-Pro), Cyclic dipeptide LP",1,None,alien,dbaasp_nonribosomal.txt,LP
+DBAASPN_6746,"Cyclo(Phe-Pro), Cyclic dipeptide FP",1,None,alien,dbaasp_nonribosomal.txt,FP
+DBAASPN_6780,Hytramycin V,1,None,alien,dbaasp_nonribosomal.txt,XxLvXx
+DBAASPN_6781,Hytramycin I,1,None,alien,dbaasp_nonribosomal.txt,XxLxXx
+DBAASPN_18458,Ohmyungsamycin A,1,None,alien,dbaasp_nonribosomal.txt,XVTXVXVXXVXV
+DBAASPN_18459,Ohmyungsamycin B,1,None,alien,dbaasp_nonribosomal.txt,XVTXVXVXXVXV
+DBAASPN_6793,"Cyclo(Pro-Trp), Diketopiperazine (PW)",1,None,alien,dbaasp_nonribosomal.txt,PW
+DBAASPN_6794,"Cyclo(Leu-Val), Diketopiperazine (LV)",1,None,alien,dbaasp_nonribosomal.txt,LV
+DBAASPN_6795,"Cyclo(D-Pro-D-Met), Diketopiperazine (pm)",1,None,alien,dbaasp_nonribosomal.txt,pm
+DBAASPN_6796,"Cyclo(D-Pro-D-Phe), Diketopiperazine (pf)",1,None,alien,dbaasp_nonribosomal.txt,pf
+DBAASPN_6915,Phomafungin,1,None,alien,dbaasp_nonribosomal.txt,AXEGSnXX
+DBAASPN_6917,Phaeofungin,1,None,alien,dbaasp_nonribosomal.txt,SadAssX
+DBAASPN_7039,"Cyclo(D-Pro-L-Met), Diketopiperazine (pM)",1,None,alien,dbaasp_nonribosomal.txt,pM
+DBAASPN_7040,"Cyclo(D-Pro-D-Tyr), Diketopiperazine (py)",1,None,alien,dbaasp_nonribosomal.txt,py
+DBAASPN_7128,"Cyclo(D-Tyr-L-Leu), Diketopiperazine (yL)",1,None,alien,dbaasp_nonribosomal.txt,yL
+DBAASPN_7131,"Cyclo(Trp-Pro), Diketopiperazine (WP)",1,None,alien,dbaasp_nonribosomal.txt,WP
+DBAASPN_7132,"Cyclo(Trp-Tyr), Diketopiperazine (WY)",1,None,alien,dbaasp_nonribosomal.txt,WY
+DBAASPN_7133,"Cyclo(Trp-Ile), Diketopiperazine (WI)",1,None,alien,dbaasp_nonribosomal.txt,WI
+DBAASPN_7134,"Cyclo(Trp-Leu), Diketopiperazine (WL)",1,None,alien,dbaasp_nonribosomal.txt,WL
+DBAASPN_7135,"Cyclo(Trp-Phe), Diketopiperazine (WF)",1,None,alien,dbaasp_nonribosomal.txt,WF
+DBAASPN_11147,Desotamide A,1,None,alien,dbaasp_nonribosomal.txt,NGWLLI
+DBAASPN_7158,Desotamide B,1,None,alien,dbaasp_nonribosomal.txt,WLlVNG
+DBAASPN_7159,Desotamide E,1,None,alien,dbaasp_nonribosomal.txt,WLvXNG
+DBAASPN_7160,Desotamide F,1,None,alien,dbaasp_nonribosomal.txt,WLxXNG
+DBAASPN_7161,Wollamide A,1,None,alien,dbaasp_nonribosomal.txt,WLlXNx
+DBAASPN_7162,Wollamide B,1,None,alien,dbaasp_nonribosomal.txt,WLlVNx
+DBAASPN_7220,"Paralysin beta-AY, Sarcophagine",1,None,alien,dbaasp_nonribosomal.txt,XY
+DBAASPN_7237,Cyclic tetrapeptide 1,1,None,alien,dbaasp_nonribosomal.txt,pYPY
+DBAASPN_7238,Cyclic tetrapeptide 2,1,None,alien,dbaasp_nonribosomal.txt,GFPY
+DBAASPN_7738,Trichogin GA IV Ome,1,None,alien,dbaasp_nonribosomal.txt,XGLXGGLXGIL
+DBAASPN_7739,Trichogin GA IV -OH,1,None,alien,dbaasp_nonribosomal.txt,XGLXGGLXGIL
+DBAASPN_7740,Act Trichogin GA IV,1,None,alien,dbaasp_nonribosomal.txt,XGLXGGLXGIX
+DBAASPN_7855,Teixobactin,1,None,alien,dbaasp_nonribosomal.txt,xISqiIStAXI
+DBAASPN_8005,Cephaibol A,1,None,alien,dbaasp_nonribosomal.txt,FXXXXGLXXXQXXXPX
+DBAASPN_8006,Cephaibol B,1,None,alien,dbaasp_nonribosomal.txt,FXXXXGLXXXQXXXPX
+DBAASPN_8007,Cephaibol E,1,None,alien,dbaasp_nonribosomal.txt,FXXXXGLXXXQXXXPX
+DBAASPN_8008,Heptaibin,1,None,alien,dbaasp_nonribosomal.txt,FXXXVGLXXXQXXXX
+DBAASPN_8009,Emerimicin IV,1,None,alien,dbaasp_nonribosomal.txt,FXXXVGLXXXQXXXX
+DBAASPN_8010,Pseudokonins KL III,1,None,alien,dbaasp_nonribosomal.txt,XNIIXPLLXP
+DBAASPN_8011,Harzianin HK VI,1,None,alien,dbaasp_nonribosomal.txt,XNIIXPLLXPX
+DBAASPN_8012,Harzianin HC IX,1,None,alien,dbaasp_nonribosomal.txt,XNLXPAIXPXLXPX
+DBAASPN_8013,Trichorzianin TA VII,1,None,alien,dbaasp_nonribosomal.txt,XAAXXQXXXSLXPVXIQQX
+DBAASPN_8014,Trichorzin PA VI,1,None,alien,dbaasp_nonribosomal.txt,XSAXXQXVXGLXPLXXQX
+DBAASPN_8015,Saturnisporin SA IV,1,None,alien,dbaasp_nonribosomal.txt,XAXAXXQXLXGXXPVXXQQX
+DBAASPN_8023,Alamethicin F50,1,None,alien,dbaasp_nonribosomal.txt,XPXAXAQXVXGLXPVXXQQX
+DBAASPN_8024,Trichorzin PA II,1,None,alien,dbaasp_nonribosomal.txt,XSAXXQXVXGLXPLXXQX
+DBAASPN_8025,Trichorzin PA IV,1,None,alien,dbaasp_nonribosomal.txt,XSAXXQXVXGLXPLXXQX
+DBAASPN_8026,Trichorzin PA V,1,None,alien,dbaasp_nonribosomal.txt,XSAXXQXVXGLXPLXXQX
+DBAASPN_8027,Trichorzin PA VIII,1,None,alien,dbaasp_nonribosomal.txt,XSAXXQXVXGLXPLXXQX
+DBAASPN_8028,Trichorzin PA IX,1,None,alien,dbaasp_nonribosomal.txt,XSAXXQXVXGLXPLXXQX
+DBAASPN_8037,Alamethicin F-30,1,None,alien,dbaasp_nonribosomal.txt,XPXAXAQXVXGLXPVXXEQX
+DBAASPN_21687,,1,None,alien,dbaasp_nonribosomal.txt,TvPYXA
+DBAASPN_8107,Cyclic peptide-1 Streptomyces sp. YIM67005,1,None,alien,dbaasp_nonribosomal.txt,YPFX
+DBAASPN_8732,Battacin,1,None,alien,dbaasp_nonribosomal.txt,xXXLfXXL
+DBAASPN_9454,Loloatin C,1,None,alien,dbaasp_nonribosomal.txt,VXLyPWfNDW
+DBAASPN_9463,Loloatin D,1,None,alien,dbaasp_nonribosomal.txt,VXLyXFfNDW
+DBAASPN_9464,Loloatin A,1,None,alien,dbaasp_nonribosomal.txt,VXLyPFfNDY
+DBAASPN_9465,Loloatin B,1,None,alien,dbaasp_nonribosomal.txt,VXLyPFfNDW
+DBAASPN_9849,Ecumicin,1,None,alien,dbaasp_nonribosomal.txt,XVXTXVXVXXVXV
+DBAASPN_9851,Callyaerin A,1,None,alien,dbaasp_nonribosomal.txt,IXVILPPLXPIFG
+DBAASPN_9852,Callyaerin B,1,None,alien,dbaasp_nonribosomal.txt,IXIILPPLXPII
+DBAASPN_9853,Callyaerin C,1,None,alien,dbaasp_nonribosomal.txt,HXLLPPVXPLFG
+DBAASPN_9854,Callyaerin E,1,None,alien,dbaasp_nonribosomal.txt,LPFFPPVXPIIG
+DBAASPN_9855,Callyaerin F,1,None,alien,dbaasp_nonribosomal.txt,VPVFPXPLF
+DBAASPN_9856,Callyaerin D,1,None,alien,dbaasp_nonribosomal.txt,IIFPXPLXPINAI
+DBAASPN_9862,Callyaerin H,1,None,alien,dbaasp_nonribosomal.txt,VPVFPPLXPI
+DBAASPN_9863,Callyaerin G,1,None,alien,dbaasp_nonribosomal.txt,LPPPPLXPFFF
+DBAASPN_10057,Trichoderin A,1,None,alien,dbaasp_nonribosomal.txt,PXXXIVXX
+DBAASPN_10058,Trichoderin A1,1,None,alien,dbaasp_nonribosomal.txt,PXXXIVXX
+DBAASPN_10059,Trichoderin B,1,None,alien,dbaasp_nonribosomal.txt,PXXXVVXX
+DBAASPN_10400,Aneurinifactin,1,None,alien,dbaasp_nonribosomal.txt,TYVSYT
+DBAASPN_10401,Pontifactin,1,None,alien,dbaasp_nonribosomal.txt,SDVSS
+DBAASPN_10510,Fusaricidin A,1,None,alien,dbaasp_nonribosomal.txt,TvVxna
+DBAASPN_10703,Bacteriocin ASP-1,1,None,alien,dbaasp_nonribosomal.txt,FTVAXFI
+DBAASPN_10761,Trichopeptide A,1,None,alien,dbaasp_nonribosomal.txt,XaXI
+DBAASPN_10762,Trichopeptides B,1,None,alien,dbaasp_nonribosomal.txt,XaX
+DBAASPN_10893,Lysocin E,1,None,alien,dbaasp_nonribosomal.txt,TrSGxLrEqwIT
+DBAASPN_11148,Desotamide C,1,None,alien,dbaasp_nonribosomal.txt,XGNIlL
+DBAASPN_11149,Desotamide D,1,None,alien,dbaasp_nonribosomal.txt,XGNIlL
+DBAASPN_11189,"WAP-8294A2, Lotilibcin 1",1,None,alien,dbaasp_nonribosomal.txt,SxSGxLxEnwxX
+DBAASPN_11190,"WAP-8294A2, Lotilibcin 2",1,None,alien,dbaasp_nonribosomal.txt,SnSGxLxEnwxX
+DBAASPN_11206,Humimycin A,1,None,alien,dbaasp_nonribosomal.txt,YSyFtVV
+DBAASPN_11207,Humimycin B,1,None,alien,dbaasp_nonribosomal.txt,YSyYtIV
+DBAASPN_11226,Cordyheptapeptide A,1,None,alien,dbaasp_nonribosomal.txt,XFXILxP
+DBAASPN_11240,Stylissamide G,1,None,alien,dbaasp_nonribosomal.txt,LIPFPFP
+DBAASPN_11242,Cordyheptapeptide C,1,None,alien,dbaasp_nonribosomal.txt,XFXVLxP
+DBAASPN_11243,Cordyheptapeptide D,1,None,alien,dbaasp_nonribosomal.txt,XFXVLxP
+DBAASPN_11244,Cordyheptapeptide E,1,None,alien,dbaasp_nonribosomal.txt,XFXXLxP
+DBAASPN_11246,Stylisin 2,1,None,alien,dbaasp_nonribosomal.txt,PIPFPPY
+DBAASPN_11344,Fusaripeptide A,1,None,alien,dbaasp_nonribosomal.txt,XAaQyI
+DBAASPN_11874,Simplicilliumtide A,1,None,alien,dbaasp_nonribosomal.txt,VxLX
+DBAASPN_12151,Pentaminomycin A,1,None,alien,dbaasp_nonribosomal.txt,VvWXl
+DBAASPN_12152,Pentaminomycin C,1,None,alien,dbaasp_nonribosomal.txt,LvWXf
+DBAASPN_12153,Pentaminomycin B,1,None,alien,dbaasp_nonribosomal.txt,LvWXl
+DBAASPN_12410,Pelgipeptin A,1,None,alien,dbaasp_nonribosomal.txt,XVXfLXvLS
+DBAASPN_12411,Pelgipeptin B,1,None,alien,dbaasp_nonribosomal.txt,XIXfLXvLS
+DBAASPN_12412,Pelgipeptin C,1,None,alien,dbaasp_nonribosomal.txt,XVXfLXvLS
+DBAASPN_12413,Pelgipeptin D,1,None,alien,dbaasp_nonribosomal.txt,XIXfLXvLS
+DBAASPN_12414,Pelgipeptin E,1,None,alien,dbaasp_nonribosomal.txt,XVXfLXvLS
+DBAASPN_12421,Act-Gramicidin A-MEA,1,None,alien,dbaasp_nonribosomal.txt,VGAlAvVvWlWlWlW
+DBAASPN_12422,MPA-Gramicidin A,1,None,alien,dbaasp_nonribosomal.txt,VGAlAvVvWlWlWlW
+DBAASPN_12424,MPA-Gramicidin A-MEA,1,None,alien,dbaasp_nonribosomal.txt,VGAlAvVvWlWlWlW
+DBAASPN_13304,Lugdunin,1,None,alien,dbaasp_nonribosomal.txt,CvWlVvV
+DBAASPN_13432,Bacicyclin,1,None,alien,dbaasp_nonribosomal.txt,GLVIaf
+DBAASPN_13434,Cyclo(Gly-GABA),1,None,alien,dbaasp_nonribosomal.txt,GX
+DBAASPN_13435,Cyclo(Ala-Hyp),1,None,alien,dbaasp_nonribosomal.txt,AX
+DBAASPN_13436,Cyclo(Ala-D-Hyp),1,None,alien,dbaasp_nonribosomal.txt,Ax
+DBAASPN_13437,Stephensiolide D,1,None,alien,dbaasp_nonribosomal.txt,TsSvI
+DBAASPN_13438,Cyclo(Gly-Pro) ,1,None,alien,dbaasp_nonribosomal.txt,GP
+DBAASPN_13907,Bacaucin,1,None,alien,dbaasp_nonribosomal.txt,ELLSRVD
+DBAASPN_14747,Tridecaptin M,1,None,alien,dbaasp_nonribosomal.txt,GxGswSXxIEIxS
+DBAASPN_14748,Tridecaptin M2,1,None,alien,dbaasp_nonribosomal.txt,GxGswSXxIEVvS
+DBAASPN_14749,Tridecaptin M5,1,None,alien,dbaasp_nonribosomal.txt,GxGsfSXxIEIvS
+DBAASPN_14750,Tridecaptin M6,1,None,alien,dbaasp_nonribosomal.txt,GxGswSXxIEIvS
+DBAASPN_14751,Tridecaptin M7,1,None,alien,dbaasp_nonribosomal.txt,GxGswSXxVEIxS
+DBAASPN_14752,Tridecaptin M8,1,None,alien,dbaasp_nonribosomal.txt,GxGsfSXxIEIxS
+DBAASPN_14764,Tridecaptin B1,1,None,alien,dbaasp_nonribosomal.txt,GxGswSXxIEVxA
+DBAASPN_14823,Tridecaptin A1,1,None,alien,dbaasp_nonribosomal.txt,vxGswSXxFEVxA
+DBAASPN_14861,"Ilamycin B1, Rufomycin B1",1,None,alien,dbaasp_nonribosomal.txt,AXLXXXX
+DBAASPN_14862,Ilamycin B2,1,None,alien,dbaasp_nonribosomal.txt,AXLXXXX
+DBAASPN_14863,Ilamycin C,1,None,alien,dbaasp_nonribosomal.txt,AXLXXLX
+DBAASPN_14864,Ilamycin D,1,None,alien,dbaasp_nonribosomal.txt,AXLXXXX
+DBAASPN_14865,Ilamycin E,1,None,alien,dbaasp_nonribosomal.txt,AXLXXLX
+DBAASPN_14866,Ilamycin F,1,None,alien,dbaasp_nonribosomal.txt,AXLXXXX
+DBAASPN_14870,"Cyclomarin A, CymA",1,None,alien,dbaasp_nonribosomal.txt,XXAXVXX
+DBAASPN_15014,Provipeptide A,1,None,alien,dbaasp_nonribosomal.txt,PLpF
+DBAASPN_15015,Provipeptide B,1,None,alien,dbaasp_nonribosomal.txt,PIPF
+DBAASPN_15016,Cyclo(D-Val-D-Leu),1,None,alien,dbaasp_nonribosomal.txt,vl
+DBAASPN_15017,"Cyclo(Pro-Leu), S.sp. DKP-PL, Gancidin W",1,None,alien,dbaasp_nonribosomal.txt,PL
+DBAASPN_15275,Surfactin,1,None,alien,dbaasp_nonribosomal.txt,ELlVDlL
+DBAASPN_15677,Cyclosporin A,1,None,alien,dbaasp_nonribosomal.txt,XXXVXAaXXXX
+DBAASPN_16177,Polymyxin B1,1,None,alien,dbaasp_nonribosomal.txt,XTXXXfLXXT
+DBAASPN_16843,"Polymyxin E1, Colistin A",1,None,alien,dbaasp_nonribosomal.txt,XTXXXlLXXT
+DBAASPN_17106,Bacitracin A,1,None,alien,dbaasp_nonribosomal.txt,ICLeIKxIfHdN
+DBAASPN_17107,"Bacitracin D3, Bacitracin C1",1,None,alien,dbaasp_nonribosomal.txt,ICLeVKxVfHdN
+DBAASPN_17108,"Bacitracin B2, Unii-AM2V8lqg5X",1,None,alien,dbaasp_nonribosomal.txt,ICLeIKxVfHdN
+DBAASPN_17109,"Bacitracin B3, Bacitracin B1A",1,None,alien,dbaasp_nonribosomal.txt,ICLeVKxIfHdN
+DBAASPN_17113,"Viomycin, Celiomycin",1,None,alien,dbaasp_nonribosomal.txt,XXSSXX
+DBAASPN_17205,"Griselimycin, GM",1,None,alien,dbaasp_nonribosomal.txt,XXXLXLXPxG
+DBAASPN_17206,Griselimycin MGM,1,None,alien,dbaasp_nonribosomal.txt,XXXLXLXXxG
+DBAASPN_17207,Griselimycin CGM,1,None,alien,dbaasp_nonribosomal.txt,XXXLXLXXxG
+DBAASPN_17213,"Rufomycin-1, Rufomycin B",1,None,alien,dbaasp_nonribosomal.txt,XXXAXLX
+DBAASPN_17809,"Pseudofactin II, PFII",1,None,alien,dbaasp_nonribosomal.txt,GSTLLSLL
+DBAASPN_18206,Brevicidine B,1,None,alien,dbaasp_nonribosomal.txt,nfwxXGxWTIGS
+DBAASPN_18207,Brevicidine,1,None,alien,dbaasp_nonribosomal.txt,nywxXGxWTIGS
+DBAASPN_18208,Laterocidine,1,None,alien,dbaasp_nonribosomal.txt,sywxXGxWTINGG
+DBAASPN_18305,Pagoamide A,1,None,alien,dbaasp_nonribosomal.txt,XCGCSTSafvF
+DBAASPN_18368,Gramicidin D,1,None,alien,dbaasp_nonribosomal.txt,VGAlAvVvWlWlWlWG
+DBAASPN_18405,Apicidin,1,None,alien,dbaasp_nonribosomal.txt,XIx
+DBAASPN_18406,Apicidin A,1,None,alien,dbaasp_nonribosomal.txt,WIx
+DBAASPN_18407,HC-toxin,1,None,alien,dbaasp_nonribosomal.txt,pAa
+DBAASPN_18408,Apicidin C,1,None,alien,dbaasp_nonribosomal.txt,XVx
+DBAASPN_18409,Apicidin D1,1,None,alien,dbaasp_nonribosomal.txt,XIx
+DBAASPN_18410,Apicidin B,1,None,alien,dbaasp_nonribosomal.txt,XIp
+DBAASPN_18415,Phakellistatin 16,1,None,alien,dbaasp_nonribosomal.txt,PFDSRAVTY
+DBAASPN_18416,Phakellistatin 15,1,None,alien,dbaasp_nonribosomal.txt,PWIPLTPL
+DBAASPN_18417,Phakellistatin 17,1,None,alien,dbaasp_nonribosomal.txt,PWVPLIPI
+DBAASPN_18418,Phakellistatin 18,1,None,alien,dbaasp_nonribosomal.txt,PYPIFPI
+DBAASPN_18419,"Phakellistatin 19, Stylissamide X",1,None,alien,dbaasp_nonribosomal.txt,IPWFPLTP
+DBAASPN_18420,Phakellistatin 8,1,None,alien,dbaasp_nonribosomal.txt,IFVLPPYIPP
+DBAASPN_18421,Phakellistatin 20,1,None,alien,dbaasp_nonribosomal.txt,PFNAXAI
+DBAASPN_18422,Phakellistatin 21,1,None,alien,dbaasp_nonribosomal.txt,PPXFELPPYI
+DBAASPN_18423,Phakellistatin 2,1,None,alien,dbaasp_nonribosomal.txt,IxPYPFP
+DBAASPN_18424,Phakellistatin 4,1,None,alien,dbaasp_nonribosomal.txt,PtPfiFS
+DBAASPN_18425,Phakellistatin 9,1,None,alien,dbaasp_nonribosomal.txt,lPPYvPPXfv
+DBAASPN_18426,Phakellistatin 11,1,None,alien,dbaasp_nonribosomal.txt,QPFPfifp
+DBAASPN_18427,Hymenamide D,1,None,alien,dbaasp_nonribosomal.txt,aIpyDPL
+DBAASPN_18428,Cyclonellin,1,None,alien,dbaasp_nonribosomal.txt,ANPRYPYT
+DBAASPN_18429,Carteritin A,1,None,alien,dbaasp_nonribosomal.txt,EYPFIPP
+DBAASPN_18430,Carteritin B,1,None,alien,dbaasp_nonribosomal.txt,LYPYYPS
+DBAASPN_18431,Hymenamide C,1,None,alien,dbaasp_nonribosomal.txt,ELWPFGP
+DBAASPN_18434,Apicidin F,1,None,alien,dbaasp_nonribosomal.txt,XXFx
+DBAASPN_18435,Kahalalide F,1,None,alien,dbaasp_nonribosomal.txt,vTVvpXxxxvFXV
+DBAASPN_18443,Bogorol A,1,None,alien,dbaasp_nonribosomal.txt,XLxIVVkVlKyLX
+DBAASPN_18444,Bogorol B,1,None,alien,dbaasp_nonribosomal.txt,XVxIVVkVlKyLX
+DBAASPN_18445,Bogorol C,1,None,alien,dbaasp_nonribosomal.txt,XVxVVVkVlKyLX
+DBAASPN_18446,Bogorol D,1,None,alien,dbaasp_nonribosomal.txt,XMxVVVkVlKyLX
+DBAASPN_18447,Bogorol E,1,None,alien,dbaasp_nonribosomal.txt,XXxVVVkVlKyLX
+DBAASPN_18448,Tauramamide,1,None,alien,dbaasp_nonribosomal.txt,ySlWR
+DBAASPN_18449,Sclerotide B,1,None,alien,dbaasp_nonribosomal.txt,XsfATX
+DBAASPN_18450,Alternaramide,1,None,alien,dbaasp_nonribosomal.txt,fPfP
+DBAASPN_18451,Sclerotiotide A,1,None,alien,dbaasp_nonribosomal.txt,XVX
+DBAASPN_18452,Sclerotiotide B,1,None,alien,dbaasp_nonribosomal.txt,XXX
+DBAASPN_18453,Sclerotiotide F,1,None,alien,dbaasp_nonribosomal.txt,XXX
+DBAASPN_18454,Sclerotiotide I,1,None,alien,dbaasp_nonribosomal.txt,XXX
+DBAASPN_18455,JBIR-15,1,None,alien,dbaasp_nonribosomal.txt,XXA
+DBAASPN_18456,Arenamide A,1,None,alien,dbaasp_nonribosomal.txt,GVLAF
+DBAASPN_18457,Arenamide B,1,None,alien,dbaasp_nonribosomal.txt,GVLAF
+DBAASPN_18460,Apratoxin A,1,None,alien,dbaasp_nonribosomal.txt,XXXP
+DBAASPN_18461,Tasiamide,1,None,alien,dbaasp_nonribosomal.txt,LXIGxP
+DBAASPN_18466,Similanamide,1,None,alien,dbaasp_nonribosomal.txt,XxXAlV
+DBAASPN_18467,Asperterrestide A,1,None,alien,dbaasp_nonribosomal.txt,Xaix
+DBAASPN_18470,Zygosporamide,1,None,alien,dbaasp_nonribosomal.txt,FlLF
+DBAASPN_18471,Halolitoralin A,1,None,alien,dbaasp_nonribosomal.txt,ALALAI
+DBAASPN_18472,Halolitoralin C,1,None,alien,dbaasp_nonribosomal.txt,ILIV
+DBAASPN_18473,Mojavensin A,1,None,alien,dbaasp_nonribosomal.txt,NynQPnN
+DBAASPN_18474,"Cyclo(Leu-Leu), Gordonia Dipeptide",1,None,alien,dbaasp_nonribosomal.txt,LL
+DBAASPN_18475,Iturin D,1,None,alien,dbaasp_nonribosomal.txt,NynQPnS
+DBAASPN_18476,Iturin V,1,None,alien,dbaasp_nonribosomal.txt,DYDVPDS
+DBAASPN_18477,Iturin-like lipopeptide,1,None,alien,dbaasp_nonribosomal.txt,DDHSAGT
+DBAASPN_18478,Bogorol-like lipopeptide,1,None,alien,dbaasp_nonribosomal.txt,XYXIVVKVLDVE
+DBAASPN_18479,Aurilide B,1,None,alien,dbaasp_nonribosomal.txt,VXXVX
+DBAASPN_18480,Aurilide C,1,None,alien,dbaasp_nonribosomal.txt,VXXVX
+DBAASPN_18481,Belamide A,1,None,alien,dbaasp_nonribosomal.txt,XXXX
+DBAASPN_18482,Dragonamide C,1,None,alien,dbaasp_nonribosomal.txt,XXXX
+DBAASPN_18483,Dragonamide D,1,None,alien,dbaasp_nonribosomal.txt,XXXX
+DBAASPN_18484,Itralamide A,1,None,alien,dbaasp_nonribosomal.txt,XXaXxA
+DBAASPN_18485,Itralamide B,1,None,alien,dbaasp_nonribosomal.txt,XXvXxV
+DBAASPN_18487,Microcolin B,1,None,alien,dbaasp_nonribosomal.txt,XXXPX
+DBAASPN_18488,Microcolin A,1,None,alien,dbaasp_nonribosomal.txt,XXXXX
+DBAASPN_18489,Desacetylmicrocolin B,1,None,alien,dbaasp_nonribosomal.txt,XTXPX
+DBAASPN_18492,1962A,1,None,alien,dbaasp_nonribosomal.txt,GVYGl
+DBAASPN_18496,Microsporin A,1,None,alien,dbaasp_nonribosomal.txt,AFx
+DBAASPN_18497,Microsporin B,1,None,alien,dbaasp_nonribosomal.txt,AFx
+DBAASPN_18498,Cotteslosin A,1,None,alien,dbaasp_nonribosomal.txt,PVVXY
+DBAASPN_18499,Versicotide A,1,None,alien,dbaasp_nonribosomal.txt,XXXAX
+DBAASPN_18500,Versicotide B,1,None,alien,dbaasp_nonribosomal.txt,XAXXX
+DBAASPN_18501,Rolloamide A,1,None,alien,dbaasp_nonribosomal.txt,IPLPVPF
+DBAASPN_18502,Euryjanicin B,1,None,alien,dbaasp_nonribosomal.txt,ATPFVPP
+DBAASPN_18503,Euryjanicin C,1,None,alien,dbaasp_nonribosomal.txt,LFPXSXP
+DBAASPN_18504,Euryjanicin D,1,None,alien,dbaasp_nonribosomal.txt,FPXFSPX
+DBAASPN_18505,Euryjanicin A,1,None,alien,dbaasp_nonribosomal.txt,WPISFVP
+DBAASPN_18506,Dominicin,1,None,alien,dbaasp_nonribosomal.txt,IIILPPXP
+DBAASPN_18507,Stylopeptide 2,1,None,alien,dbaasp_nonribosomal.txt,LLPFPYPTPF
+DBAASPN_18508,Stylopeptide 1,1,None,alien,dbaasp_nonribosomal.txt,IFSPIPL
+DBAASPN_18509,Bisebromoamide,1,None,alien,dbaasp_nonribosomal.txt,AXXClXX
+DBAASPN_18514,Gageopeptide A,1,None,alien,dbaasp_nonribosomal.txt,LELL
+DBAASPN_18515,Gageopeptide B,1,None,alien,dbaasp_nonribosomal.txt,XLLL
+DBAASPN_18516,Gageopeptide C,1,None,alien,dbaasp_nonribosomal.txt,LELL
+DBAASPN_18517,Gageopeptide D,1,None,alien,dbaasp_nonribosomal.txt,LELL
+DBAASPN_18518,Kurahyne,1,None,alien,dbaasp_nonribosomal.txt,XXXXPX
+DBAASPN_18527,Clavatustide A,1,None,alien,dbaasp_nonribosomal.txt,xXXX
+DBAASPN_18528,Clavatustide B,1,None,alien,dbaasp_nonribosomal.txt,xXXX
+DBAASPN_18529,Koshikamide A2,1,None,alien,dbaasp_nonribosomal.txt,fXXXXXNfPPR
+DBAASPN_18530,Penilumamide B,1,None,alien,dbaasp_nonribosomal.txt,XMX
+DBAASPN_18531,Penilumamide A,1,None,alien,dbaasp_nonribosomal.txt,XXX
+DBAASPN_18532,Penilumamide C,1,None,alien,dbaasp_nonribosomal.txt,XXX
+DBAASPN_18533,Penilumamide D,1,None,alien,dbaasp_nonribosomal.txt,XAX
+DBAASPN_18534,Asperpeptide A,1,None,alien,dbaasp_nonribosomal.txt,AAPXY
+DBAASPN_18535,Globomycin,1,None,alien,dbaasp_nonribosomal.txt,XXXSXG
+DBAASPN_18536,Fengycin,1,None,alien,dbaasp_nonribosomal.txt,ExYxEaPQyI
+DBAASPN_18537,Iturin A,1,None,alien,dbaasp_nonribosomal.txt,NynQPnS
+DBAASPN_18539,Mycosubtilin,1,None,alien,dbaasp_nonribosomal.txt,NynQPsN
+DBAASPN_18544,Mycosubtilin (anteiso-C17),1,None,alien,dbaasp_nonribosomal.txt,NynQPsN
+DBAASPN_18554,"Cyclo(D-Pro-D-Val), Diketopiperazine (pv)",1,None,alien,dbaasp_nonribosomal.txt,pv
+DBAASPN_18555,"Cyclo(D-Pro-D-Ile), Diketopiperazine (pi)",1,None,alien,dbaasp_nonribosomal.txt,pi
+DBAASPN_18556,"Cyclo(D-Pro-D-Leu), Diketopiperazine (pl)",1,None,alien,dbaasp_nonribosomal.txt,pl
+DBAASPN_18557,"Cyclo(D-Hyp-D-Phe), Diketopiperazine (OH-pf)",1,None,alien,dbaasp_nonribosomal.txt,xf
+DBAASPN_18558,Chrysogeamide A,1,None,alien,dbaasp_nonribosomal.txt,GVlAV
+DBAASPN_18559,Chrysogeamide B,1,None,alien,dbaasp_nonribosomal.txt,GVlAV
+DBAASPN_18560,Nodupetide,1,None,alien,dbaasp_nonribosomal.txt,GVlAV
+DBAASPN_18561,Scopularide A,1,None,alien,dbaasp_nonribosomal.txt,GVlAF
+DBAASPN_18562,Scopularide B,1,None,alien,dbaasp_nonribosomal.txt,GVlAF
+DBAASPN_18563,Oryzamide A,1,None,alien,dbaasp_nonribosomal.txt,GVlAL
+DBAASPN_18564,Oryzamide B,1,None,alien,dbaasp_nonribosomal.txt,GVlAY
+DBAASPN_18565,Oryzamide C,1,None,alien,dbaasp_nonribosomal.txt,GVlAM
+DBAASPN_18566,Emericellamide A,1,None,alien,dbaasp_nonribosomal.txt,GVLAA
+DBAASPN_18567,Emericellamide B,1,None,alien,dbaasp_nonribosomal.txt,GVLAA
+DBAASPN_18568,Isaridin G,1,None,alien,dbaasp_nonribosomal.txt,PYXXX
+DBAASPN_18569,Desmethylisaridin C1,1,None,alien,dbaasp_nonribosomal.txt,PFXLX
+DBAASPN_18570,Desmethylisaridin G,1,None,alien,dbaasp_nonribosomal.txt,PYXLX
+DBAASPN_18571,Isaridin A,1,None,alien,dbaasp_nonribosomal.txt,PFXXX
+DBAASPN_18572,Isaridin B,1,None,alien,dbaasp_nonribosomal.txt,XFXXX
+DBAASPN_18573,Isaridin E,1,None,alien,dbaasp_nonribosomal.txt,PFXXX
+DBAASPN_18594,Scytalidamide A,1,None,alien,dbaasp_nonribosomal.txt,XFXFLPX
+DBAASPN_18595,Scytalidamide B,1,None,alien,dbaasp_nonribosomal.txt,XFXFLXX
+DBAASPN_18596,Friulimicin B,1,None,alien,dbaasp_nonribosomal.txt,NXxXDGDGxVP
+DBAASPN_18667,Macolacin,1,None,alien,dbaasp_nonribosomal.txt,XTsXXlIXXL
+DBAASPN_18698,Polymyxin B2,1,None,alien,dbaasp_nonribosomal.txt,XTXXXfLXXT
+DBAASPN_18699,Polymyxin B3,1,None,alien,dbaasp_nonribosomal.txt,XTXXXfLXXT
+DBAASPN_18700,Polymyxin B4,1,None,alien,dbaasp_nonribosomal.txt,XTXXXfLXXT
+DBAASPN_18701,Polymyxin B5,1,None,alien,dbaasp_nonribosomal.txt,XTXXXfLXXT
+DBAASPN_18702,"polymyxin Ile-B1, Polymyxin II",1,None,alien,dbaasp_nonribosomal.txt,XTXXXfIXXT
+DBAASPN_18703,"Polymyxin E2, Colistin b",1,None,alien,dbaasp_nonribosomal.txt,XTXXXlLXXT
+DBAASPN_18705,Polymyxin E3,1,None,alien,dbaasp_nonribosomal.txt,XTXXXlLXXT
+DBAASPN_18706,Polymyxin E4,1,None,alien,dbaasp_nonribosomal.txt,XTXXXlLXXT
+DBAASPN_18708,Polymyxin E7,1,None,alien,dbaasp_nonribosomal.txt,XTXXXlLXXT
+DBAASPN_18711,"Polymyxin E1-Ile, Colistin III",1,None,alien,dbaasp_nonribosomal.txt,XTXXXlIXXT
+DBAASPN_18712,Polymyxin E1-Nva,1,None,alien,dbaasp_nonribosomal.txt,XTXXXlXXXT
+DBAASPN_18713,Polymyxin E1-Val,1,None,alien,dbaasp_nonribosomal.txt,XTXXXlVXXT
+DBAASPN_18714,Polymyxin E2-Ile,1,None,alien,dbaasp_nonribosomal.txt,XTXXXlIXXT
+DBAASPN_18715,Polymyxin E2-Nva,1,None,alien,dbaasp_nonribosomal.txt,XTXXXlXXXT
+DBAASPN_18716,Polymyxin E2-Val,1,None,alien,dbaasp_nonribosomal.txt,XTXXXlVXXT
+DBAASPN_18717,Polymyxin A1,1,None,alien,dbaasp_nonribosomal.txt,XTxXXlTXXT
+DBAASPN_18718,Polymyxin A2,1,None,alien,dbaasp_nonribosomal.txt,XTxXXlTXXT
+DBAASPN_18719,Polymyxin M1,1,None,alien,dbaasp_nonribosomal.txt,XTXXXlTXXT
+DBAASPN_18720,Polymyxin M2,1,None,alien,dbaasp_nonribosomal.txt,XTXXXlTXXT
+DBAASPN_18721,Polymyxin D1,1,None,alien,dbaasp_nonribosomal.txt,XTsXXlTXXT
+DBAASPN_18722,Polymyxin D2,1,None,alien,dbaasp_nonribosomal.txt,XTsXXlTXXT
+DBAASPN_18723,Polymyxin S1,1,None,alien,dbaasp_nonribosomal.txt,XTsXXfTXXT
+DBAASPN_18724,Polymyxin S2,1,None,alien,dbaasp_nonribosomal.txt,XTsXXfTXXT
+DBAASPN_18725,Polymyxin T1,1,None,alien,dbaasp_nonribosomal.txt,XTXXXfLXXL
+DBAASPN_18726,Polymyxin T2,1,None,alien,dbaasp_nonribosomal.txt,XTXXXfLXXL
+DBAASPN_18738,Psychrophilin E,1,None,alien,dbaasp_nonribosomal.txt,WPX
+DBAASPN_18763,Polymyxin B-15,1,None,alien,dbaasp_nonribosomal.txt,XTXXXfLXXT
+DBAASPN_18861,"Cyclo(Trp-Trp), Diketopiperazine (WW)",1,None,alien,dbaasp_nonribosomal.txt,WW
+DBAASPN_18873,"Cyclo(Ser-Pro), Diketopiperazine (SP)",1,None,alien,dbaasp_nonribosomal.txt,SP
+DBAASPN_18879,"Cyclo(L-Pro-D-Arg), Diketopiperazine (Pr)",1,None,alien,dbaasp_nonribosomal.txt,Pr
+DBAASPN_18882,"Cyclo(D-Pro-L-Tyr), Diketopiperazine (pY)",1,None,alien,dbaasp_nonribosomal.txt,pY
+DBAASPN_18886,"Cyclo(D-Leu-D-Arg), Diketopiperazine (lr)",1,None,alien,dbaasp_nonribosomal.txt,lr
+DBAASPN_18887,"Cyclo(Trp-Arg), Diketopiperazine (WR)",1,None,alien,dbaasp_nonribosomal.txt,WR
+DBAASPN_18888,"Cyclo(D-Trp-D-Arg), Diketopiperazine (wr)",1,None,alien,dbaasp_nonribosomal.txt,wr
+DBAASPN_18890,"Cyclo(Leu-Hyp), Cordysinin A",1,None,alien,dbaasp_nonribosomal.txt,LX
+DBAASPN_18891,Cyclo(Phe-Hyp),1,None,alien,dbaasp_nonribosomal.txt,FX
+DBAASPN_18892,Cyclo(Pro-Val),1,None,alien,dbaasp_nonribosomal.txt,PV
+DBAASPN_18894,Cyclo(L-Pro-D-Leu),1,None,alien,dbaasp_nonribosomal.txt,Pl
+DBAASPN_18895,Cyclo(Hyp-Ile),1,None,alien,dbaasp_nonribosomal.txt,XI
+DBAASPN_18896,Cyclo(Pro-Pro),1,None,alien,dbaasp_nonribosomal.txt,PP
+DBAASPN_18897,Saccharopolytide A,1,None,alien,dbaasp_nonribosomal.txt,LXFX
+DBAASPN_18898,"Cyclo(D-Hyp-D-Ile), Diketopiperazine (D-HyP-D-Ile)",1,None,alien,dbaasp_nonribosomal.txt,xi
+DBAASPN_18899,Cyclo(Phe-ethyl-Glu),1,None,alien,dbaasp_nonribosomal.txt,FX
+DBAASPN_18900,"Cyclo(Phe-Val), Diketopiperazine (FV)",1,None,alien,dbaasp_nonribosomal.txt,FV
+DBAASPN_18958,Cyclo(Pro-Ala),1,None,alien,dbaasp_nonribosomal.txt,PA
+DBAASPN_18961,Cyclo(Trp-Ser),1,None,alien,dbaasp_nonribosomal.txt,WS
+DBAASPN_18978,Cyclo(Phe-Gly),1,None,alien,dbaasp_nonribosomal.txt,FG
+DBAASPN_18979,Cyclo(L-Pro-D-Ile),1,None,alien,dbaasp_nonribosomal.txt,Pi
+DBAASPN_18982,"Cyclo(Trp-Pro-Phe), Epicotripeptin",1,None,alien,dbaasp_nonribosomal.txt,WPF
+DBAASPN_18983,Cyclo(Pro-Ile),1,None,alien,dbaasp_nonribosomal.txt,PI
+DBAASPN_18994,Brevibacillin 2V,1,None,alien,dbaasp_nonribosomal.txt,XLXVVVKVVKYLX
+DBAASPN_18995,Brevibacillin I,1,None,alien,dbaasp_nonribosomal.txt,XLXIIVKIVKYLX
+DBAASPN_18996,Brevibacillin,1,None,alien,dbaasp_nonribosomal.txt,XLXIIVKVVKYLX
+DBAASPN_18997,Brevibacillin V,1,None,alien,dbaasp_nonribosomal.txt,XLXIVVKVVKYLX
+DBAASPN_18999,Xylapeptide B,1,None,alien,dbaasp_nonribosomal.txt,LPXVa
+DBAASPN_19000,Xylapeptide A,1,None,alien,dbaasp_nonribosomal.txt,LXXVa
+DBAASPN_19027,Fengycin B2,1,None,alien,dbaasp_nonribosomal.txt,ExytEVPQYV
+DBAASPN_19028,Paenibacterin,1,None,alien,dbaasp_nonribosomal.txt,KVTXSVKSIPVKI
+DBAASPN_19066,Syringopeptin SP508 A,1,None,alien,dbaasp_nonribosomal.txt,XPVLAALVAAVAAXXSAXAXXY
+DBAASPN_19067,Syringopeptin SP508 B,1,None,alien,dbaasp_nonribosomal.txt,XPVLAALVAAVAAXXSAXAXXY
+DBAASPN_19068,Syringopeptin SP22 A,1,None,alien,dbaasp_nonribosomal.txt,XpvVaavvXavAaXxsaXAXxY
+DBAASPN_19069,Syringopeptin SP22 B,1,None,alien,dbaasp_nonribosomal.txt,XpvVaavvXavAaXxsaXAXxY
+DBAASPN_19074,Cyclo(L-Ala-D-Pro),1,None,alien,dbaasp_nonribosomal.txt,Ap
+DBAASPN_19075,Cyclo(Ser-Hyp),1,None,alien,dbaasp_nonribosomal.txt,SX
+DBAASPN_19077,Cyclo(L-Phe-D-Hyp),1,None,alien,dbaasp_nonribosomal.txt,Fx
+DBAASPN_19078,Cyclo(Hyp-Pro),1,None,alien,dbaasp_nonribosomal.txt,XP
+DBAASPN_19079,Cyclo(Ala-Gly),1,None,alien,dbaasp_nonribosomal.txt,AG
+DBAASPN_19080,Cyclo(L-Pro-D-Hyp),1,None,alien,dbaasp_nonribosomal.txt,Px
+DBAASPN_19081,Cyclo(L-Pro-D-Glu),1,None,alien,dbaasp_nonribosomal.txt,Pe
+DBAASPN_19082,Cyclo(D-Pro-D-Glu),1,None,alien,dbaasp_nonribosomal.txt,pe
+DBAASPN_19083,Cyclo(L-Pro-D-allo-Thr),1,None,alien,dbaasp_nonribosomal.txt,Px
+DBAASPN_19084,Cyclo(Pro-Asp),1,None,alien,dbaasp_nonribosomal.txt,PD
+DBAASPN_19085,Cyclo(D-Pro-Gly),1,None,alien,dbaasp_nonribosomal.txt,pG
+DBAASPN_19086,Cyclo(L-Pro-D-Ala),1,None,alien,dbaasp_nonribosomal.txt,Pa
+DBAASPN_19087,Cyclo(D-Pro-L-Val),1,None,alien,dbaasp_nonribosomal.txt,pV
+DBAASPN_19088,Cyclo(D-Pro-L-Ile),1,None,alien,dbaasp_nonribosomal.txt,pI
+DBAASPN_19089,Cyclo(L-Pro-D-Val),1,None,alien,dbaasp_nonribosomal.txt,Pv
+DBAASPN_19090,Cyclo(D-Leu-D-His),1,None,alien,dbaasp_nonribosomal.txt,lh
+DBAASPN_19091,Brevilaterin A,1,None,alien,dbaasp_nonribosomal.txt,XVXVVVKVLKYLX
+DBAASPN_19092,Brevilaterin B,1,None,alien,dbaasp_nonribosomal.txt,XMXIVVKVLKYLX
+DBAASPN_19093,Brevilaterin C,1,None,alien,dbaasp_nonribosomal.txt,XVXIVVKVLKYLX
+DBAASPN_19094,Brevilaterin D,1,None,alien,dbaasp_nonribosomal.txt,XVXIVIKVLKYLX
+DBAASPN_19095,Brevilaterin E,1,None,alien,dbaasp_nonribosomal.txt,XLXIVVKVLKYLX
+DBAASPN_19099,Brevilaterin V1,1,None,alien,dbaasp_nonribosomal.txt,XVXVVVKVLKYLX
+DBAASPN_19100,Brevilaterin V2,1,None,alien,dbaasp_nonribosomal.txt,XVXVVVKVLKYLX
+DBAASPN_19101,Brevilaterin V4,1,None,alien,dbaasp_nonribosomal.txt,XVKVVVKVLKYLX
+DBAASPN_19102,Brevilaterin V5,1,None,alien,dbaasp_nonribosomal.txt,XVXIVVKVLKYLX
+DBAASPN_19167,Colisporifungin,1,None,alien,dbaasp_nonribosomal.txt,QTXwSf
+DBAASPN_19168,Cavinafungin A,1,None,alien,dbaasp_nonribosomal.txt,TXVXA
+DBAASPN_19169,Cavinafungin B,1,None,alien,dbaasp_nonribosomal.txt,TXVXA
+DBAASPN_19170,Fellutamide C,1,None,alien,dbaasp_nonribosomal.txt,NXV
+DBAASPN_19171,Fellutamide D,1,None,alien,dbaasp_nonribosomal.txt,NXL
+DBAASPN_19172,Fellutamide B,1,None,alien,dbaasp_nonribosomal.txt,NQL
+DBAASPN_19174,Fellutamide F,1,None,alien,dbaasp_nonribosomal.txt,NQX
+DBAASPN_19208,Burkholdine-1097,1,None,alien,dbaasp_nonribosomal.txt,sxnGNSX
+DBAASPN_19209,Burkholdine-1229,1,None,alien,dbaasp_nonribosomal.txt,sxnGNSX
+DBAASPN_19210,Burkholdine-1215,1,None,alien,dbaasp_nonribosomal.txt,sxxGNSX
+DBAASPN_19211,Burkholdine-1119,1,None,alien,dbaasp_nonribosomal.txt,sxxGNSN
+DBAASPN_19212,Burkholdine-1213,1,None,alien,dbaasp_nonribosomal.txt,sxnGNSN
+DBAASPN_19219,Feglymycin,1,None,alien,dbaasp_nonribosomal.txt,xxVxXxXxVxXFD
+DBAASPN_19241,Cyclo(Tyr-3-I-Tyr),1,None,alien,dbaasp_nonribosomal.txt,YX
+DBAASPN_19546,Massetolide A,1,None,alien,dbaasp_nonribosomal.txt,LexiLsLsI
+DBAASPN_19547,Viscosin,1,None,alien,dbaasp_nonribosomal.txt,LexvLsLsI
+DBAASPN_19548,Hirsutatin A,1,None,alien,dbaasp_nonribosomal.txt,FXTS
+DBAASPN_19549,Hirsutatin B,1,None,alien,dbaasp_nonribosomal.txt,XXTS
+DBAASPN_19717,Pumilacidin,1,None,alien,dbaasp_nonribosomal.txt,ELlLDlI
+DBAASPN_19720,Pseudodesmin B,1,None,alien,dbaasp_nonribosomal.txt,LqxvlsLsV
+DBAASPN_19735,Cordycommunin,1,None,alien,dbaasp_nonribosomal.txt,XAAQYV
+DBAASPN_19772,Stephensiolide C,1,None,alien,dbaasp_nonribosomal.txt,TsSvV
+DBAASPN_19774,Kahalalide A,1,None,alien,dbaasp_nonribosomal.txt,ftlfLxS
+DBAASPN_19808,Relacidine A,1,None,alien,dbaasp_nonribosomal.txt,SYWXXGXWTIGSG
+DBAASPN_19809,Relacidine B,1,None,alien,dbaasp_nonribosomal.txt,SYWXXGXWTIGSA
+DBAASPN_19822,Tolaasin D,1,None,alien,dbaasp_nonribosomal.txt,XpSLvslvVqLvXxLXxK
+DBAASPN_19823,Tolaasin E,1,None,alien,dbaasp_nonribosomal.txt,XpSLvslvVqLvXxLGxK
+DBAASPN_19824,White Line Inducing Principle [WLIP],1,None,alien,dbaasp_nonribosomal.txt,LexvlsLsI
+DBAASPN_19893,Stephensiolide U,1,None,alien,dbaasp_nonribosomal.txt,TsSiI
+DBAASPN_19894,Stephensiolide K,1,None,alien,dbaasp_nonribosomal.txt,TsSiI
+DBAASPN_19930,Stephensiolide F,1,None,alien,dbaasp_nonribosomal.txt,TsSvI
+DBAASPN_19931,Stephensiolide I,1,None,alien,dbaasp_nonribosomal.txt,TsSvI
+DBAASPN_19932,Stephensiolide G,1,None,alien,dbaasp_nonribosomal.txt,TsSvV
+DBAASPN_20038,Coibamide A,1,None,alien,dbaasp_nonribosomal.txt,XXXXXAXXX
+DBAASPN_20046,Galaxamide,1,None,alien,dbaasp_nonribosomal.txt,XLLXL
+DBAASPN_20053,Sansalvamide A,1,None,alien,dbaasp_nonribosomal.txt,VLFL
+DBAASPN_20095,Stereocalpin A,1,None,alien,dbaasp_nonribosomal.txt,FX
+DBAASPN_20466,Penicillin G,1,None,alien,dbaasp_nonribosomal.txt,Cv
+DBAASPN_20467,Cephalosporin C,1,None,alien,dbaasp_nonribosomal.txt,Cx
+DBAASPN_20468,"Penicillin N, Cephalosporin N, Adicillin",1,None,alien,dbaasp_nonribosomal.txt,Cv
+DBAASPN_20644,Phakellistatin 1,1,None,alien,dbaasp_nonribosomal.txt,IFPYPIP
+DBAASPN_20648,Phakellistatin 10,1,None,alien,dbaasp_nonribosomal.txt,IPYVPLTP
+DBAASPN_20817,MDN-0066,1,None,alien,dbaasp_nonribosomal.txt,LexllsLI
+DBAASPN_20828,PAX 1,1,None,alien,dbaasp_nonribosomal.txt,GKKKKKK
+DBAASPN_20829,PAX 2,1,None,alien,dbaasp_nonribosomal.txt,GRKKKKK
+DBAASPN_20830,PAX 3,1,None,alien,dbaasp_nonribosomal.txt,GKKKKKK
+DBAASPN_20831,PAX 4,1,None,alien,dbaasp_nonribosomal.txt,GRKKKKK
+DBAASPN_20832,Ulleungmycin A,1,None,alien,dbaasp_nonribosomal.txt,xXvxXX
+DBAASPN_20833,Ulleungmycin B,1,None,alien,dbaasp_nonribosomal.txt,xXvlXX
+DBAASPN_20851,Arthropeptide A,1,None,alien,dbaasp_nonribosomal.txt,PLXY
+DBAASPN_20852,Androsamide,1,None,alien,dbaasp_nonribosomal.txt,IXXT
+DBAASPN_20857,Telomycin A,1,None,alien,dbaasp_nonribosomal.txt,DSTXAGXXXXX
+DBAASPN_20858,Telomycin B,1,None,alien,dbaasp_nonribosomal.txt,DSTXAGXXXXP
+DBAASPN_20859,Telomycin C,1,None,alien,dbaasp_nonribosomal.txt,DSTXAGPXXXP
+DBAASPN_20860,Telomycin D,1,None,alien,dbaasp_nonribosomal.txt,DSTXAGPXXXX
+DBAASPN_20861,Telomycin E,1,None,alien,dbaasp_nonribosomal.txt,DSTXAGPWXXP
+DBAASPN_20862,Telomycin F,1,None,alien,dbaasp_nonribosomal.txt,DSTXAGPXXLP
+DBAASPN_20863,Telomycin G,1,None,alien,dbaasp_nonribosomal.txt,DSTXAGPWXLP
+DBAASPN_20864,Di-5-hydroxytryptophan Telomycin,1,None,alien,dbaasp_nonribosomal.txt,DSTXAGXXXXX
+DBAASPN_20865,Di-5-methyltryptophan Telomycin,1,None,alien,dbaasp_nonribosomal.txt,DSTXAGXXXXX
+DBAASPN_20866,Di-5-methoxytryptophan Telomycin,1,None,alien,dbaasp_nonribosomal.txt,DSTXAGXXXXX
+DBAASPN_20880,Linear Telomycin F,1,None,alien,dbaasp_nonribosomal.txt,DSTXAGPXXLP
+DBAASPN_20881,Linear Telomycin C,1,None,alien,dbaasp_nonribosomal.txt,DSTXAGPXXXP
+DBAASPN_20882,Telomycin (2-11),1,None,alien,dbaasp_nonribosomal.txt,DSTXAGPXXLP
+DBAASPN_20886,Ambobactin,1,None,alien,dbaasp_nonribosomal.txt,DSTXAGXXxXX
+DBAASPN_20891,Malacidin A,1,None,alien,dbaasp_nonribosomal.txt,DXvKXDGxVX
+DBAASPN_20892,Malacidin B,1,None,alien,dbaasp_nonribosomal.txt,DXvKXDGxVX
+DBAASPN_20896,Octapeptin C4,1,None,alien,dbaasp_nonribosomal.txt,xXXfLXXL
+DBAASPN_20906,Sevadicin,1,None,alien,dbaasp_nonribosomal.txt,faW
+DBAASPN_20907,Methicillin,1,None,alien,dbaasp_nonribosomal.txt,Cv
+DBAASPN_20908,"Daptomycin, Cubicin, Cidecin",1,None,alien,dbaasp_nonribosomal.txt,WnDTGXDaDGsXX
+DBAASPN_20909,Laspartomycin C,1,None,alien,dbaasp_nonribosomal.txt,DXXGDGDGTXP
+DBAASPN_20911,Taromycin A,1,None,alien,dbaasp_nonribosomal.txt,XnDTGXDaDGaXX
+DBAASPN_20912,Taromycin B,1,None,alien,dbaasp_nonribosomal.txt,XnDTGXDaDGaXX
+DBAASPN_20919,Cadaside A,1,None,alien,dbaasp_nonribosomal.txt,XGeYTiDXPGeXX
+DBAASPN_20920,Cadaside B,1,None,alien,dbaasp_nonribosomal.txt,XGeYTiDXPGeXX
+DBAASPN_20921,A-54145B,1,None,alien,dbaasp_nonribosomal.txt,WeXTXADkXGnXI
+DBAASPN_20922,L-156373,1,None,alien,dbaasp_nonribosomal.txt,PFXXXx
+DBAASPN_20923,L-156373-1,1,None,alien,dbaasp_nonribosomal.txt,PFIXXx
+DBAASPN_20924,"Viscosinamide A, Pseudodesmin A",1,None,alien,dbaasp_nonribosomal.txt,LqxvlsLsI
+DBAASPN_20925,Rhodopeptin B5,1,None,alien,dbaasp_nonribosomal.txt,GKV
+DBAASPN_20926,Rhodopeptin C3,1,None,alien,dbaasp_nonribosomal.txt,GXV
+DBAASPN_20968,Streptocidin A,1,None,alien,dbaasp_nonribosomal.txt,VOLfPLyNQW
+DBAASPN_20969,Streptocidin B,1,None,alien,dbaasp_nonribosomal.txt,VOLfPLwNQW
+DBAASPN_20970,Streptocidin C,1,None,alien,dbaasp_nonribosomal.txt,VOLfPLwNQw
+DBAASPN_20971,Streptocidin D,1,None,alien,dbaasp_nonribosomal.txt,VOLfPLwNQF
+DBAASPN_20972,Wainunuamide,1,None,alien,dbaasp_nonribosomal.txt,FPHPPGL
+DBAASPN_20974,Ogipeptin A,1,None,alien,dbaasp_nonribosomal.txt,XXXXXLR
+DBAASPN_20975,Ogipeptin B,1,None,alien,dbaasp_nonribosomal.txt,XXXXXLR
+DBAASPN_20976,Ogipeptin C,1,None,alien,dbaasp_nonribosomal.txt,XXXXXLR
+DBAASPN_20977,Ogipeptin D,1,None,alien,dbaasp_nonribosomal.txt,XXXXXLR
+DBAASPN_20988,Arylomycin A2,1,None,alien,dbaasp_nonribosomal.txt,xaGXAY
+DBAASPN_20991,Arylomycin C16,1,None,alien,dbaasp_nonribosomal.txt,xaGXAY
+DBAASPN_20992,Arylomycin A1,1,None,alien,dbaasp_nonribosomal.txt,xaGXAY
+DBAASPN_20993,Arylomycin A3,1,None,alien,dbaasp_nonribosomal.txt,xaGXAY
+DBAASPN_20994,Arylomycin A4,1,None,alien,dbaasp_nonribosomal.txt,xaGXAY
+DBAASPN_20995,Arylomycin A5,1,None,alien,dbaasp_nonribosomal.txt,xaGXAY
+DBAASPN_20996,Arylomycin B1,1,None,alien,dbaasp_nonribosomal.txt,xaGXAX
+DBAASPN_20997,Arylomycin B2,1,None,alien,dbaasp_nonribosomal.txt,xaGXAX
+DBAASPN_20998,Arylomycin B3,1,None,alien,dbaasp_nonribosomal.txt,xaGXAX
+DBAASPN_20999,Arylomycin B4,1,None,alien,dbaasp_nonribosomal.txt,xaGXAX
+DBAASPN_21001,Arylomycin B7,1,None,alien,dbaasp_nonribosomal.txt,xaGXAX
+DBAASPN_21013,Bacillomycin D(C14),1,None,alien,dbaasp_nonribosomal.txt,NynPEsT
+DBAASPN_21014,Bacillomycin D(C15),1,None,alien,dbaasp_nonribosomal.txt,NynPEsT
+DBAASPN_21015,Bacillomycin D(C16),1,None,alien,dbaasp_nonribosomal.txt,NynPEsT
+DBAASPN_21016,Haligramide A,1,None,alien,dbaasp_nonribosomal.txt,MPPMPFC
+DBAASPN_21017,Haligramide B,1,None,alien,dbaasp_nonribosomal.txt,XPPMPFC
+DBAASPN_21125,Gymnopeptide A,1,None,alien,dbaasp_nonribosomal.txt,AXAXSXVXVXAXVXXXVX
+DBAASPN_21126,Gymnopeptide B,1,None,alien,dbaasp_nonribosomal.txt,AXAXTXVXVXAXVXXXVX
+DBAASPN_21128,Callypeptide A,1,None,alien,dbaasp_nonribosomal.txt,YXIFYLAT
+DBAASPN_21132,Clovibactin,1,None,alien,dbaasp_nonribosomal.txt,FlkSXALL
+DBAASPN_21137,Fusaristatin A,1,None,alien,dbaasp_nonribosomal.txt,XXQ
+DBAASPN_21143,Iturin-like peptide Mixirin A,1,None,alien,dbaasp_nonribosomal.txt,NyNQSNp
+DBAASPN_21146,Fusaristatin C,1,None,alien,dbaasp_nonribosomal.txt,XXS
+DBAASPN_21150,Malformin E,1,None,alien,dbaasp_nonribosomal.txt,LVICC
+DBAASPN_21151,Malformin A1,1,None,alien,dbaasp_nonribosomal.txt,ccVlI
+DBAASPN_21152,Pseudoxylallemycin A,1,None,alien,dbaasp_nonribosomal.txt,XFXF
+DBAASPN_21153,Aspergillipeptide D,1,None,alien,dbaasp_nonribosomal.txt,VxXXP
+DBAASPN_21154,MBJ-0174,1,None,alien,dbaasp_nonribosomal.txt,rvLvY
+DBAASPN_21155,MBJ-0173,1,None,alien,dbaasp_nonribosomal.txt,lrlFXw
+DBAASPN_21156,Sartoryglabramide A,1,None,alien,dbaasp_nonribosomal.txt,XPFF
+DBAASPN_21157,Sartoryglabramide B,1,None,alien,dbaasp_nonribosomal.txt,XPFW
+DBAASPN_21158,Penitropeptide,1,None,alien,dbaasp_nonribosomal.txt,GFPPWL
+DBAASPN_21772,Talarolide A,1,None,alien,dbaasp_nonribosomal.txt,AxXxaxX
+DBAASPN_21160,Simplicilliumtide J,1,None,alien,dbaasp_nonribosomal.txt,xaPQyX
+DBAASPN_21167,Gliotoxin,1,None,alien,dbaasp_nonribosomal.txt,XX
+DBAASPN_21168,Reduced Gliotoxin,1,None,alien,dbaasp_nonribosomal.txt,XX
+DBAASPN_21258,Chrysospermin B,1,None,alien,dbaasp_nonribosomal.txt,FXSXXLQGXXAAXPXXXQX
+DBAASPN_21259,Chrysospermin D,1,None,alien,dbaasp_nonribosomal.txt,FXSXXLQGXXAAXPXXXQX
+DBAASPN_21260,Peptavirin A,1,None,alien,dbaasp_nonribosomal.txt,FXAXXLQGXXAAXPXXXQX
+DBAASPN_21261,Peptavirin B,1,None,alien,dbaasp_nonribosomal.txt,FXSXXLQGXXAAXPXXXQX
+DBAASPN_21262,Ampullosporin F,1,None,alien,dbaasp_nonribosomal.txt,WAXXLXQXXXXLXQX
+DBAASPN_21263,Ampullosporin G,1,None,alien,dbaasp_nonribosomal.txt,WAXXLXXXXXQLXQX
+DBAASPN_21264,Ampullosporin A,1,None,alien,dbaasp_nonribosomal.txt,WAXXLXQXXXQLXQX
+DBAASPN_21265,Emericellipsin A,1,None,alien,dbaasp_nonribosomal.txt,XXAXIXX
+DBAASPN_21286,Westertide A,1,None,alien,dbaasp_nonribosomal.txt,XIVx
+DBAASPN_21287,Westertide B,1,None,alien,dbaasp_nonribosomal.txt,XITx
+DBAASPN_21288,Callyptide A,1,None,alien,dbaasp_nonribosomal.txt,TALYFIXY
+DBAASPN_21326,Aspartocin D,1,None,alien,dbaasp_nonribosomal.txt,DXXXDGDGXVP
+DBAASPN_21327,Aspartocin E,1,None,alien,dbaasp_nonribosomal.txt,DXXXDGDGXVP
+DBAASPN_21328,Amphomycin,1,None,alien,dbaasp_nonribosomal.txt,DXxXDGDGxVP
+DBAASPN_21329,Tsushimycin,1,None,alien,dbaasp_nonribosomal.txt,DXxXDGDGxVP
+DBAASPN_21360,Anikasin,1,None,alien,dbaasp_nonribosomal.txt,LDxlLsLsLId
+DBAASPN_21361,Medipeptin A,1,None,alien,dbaasp_nonribosomal.txt,XPAAAVVXTVIXGAAVXTAXSI
+DBAASPN_21362,"Tensin, Milkisin C",1,None,alien,dbaasp_nonribosomal.txt,ldxllsLqLIE
+DBAASPN_21363,Circulocin alpha,1,None,alien,dbaasp_nonribosomal.txt,TfIXD
+DBAASPN_21364,Circulocin beta,1,None,alien,dbaasp_nonribosomal.txt,TfIXD
+DBAASPN_21365,Circulocin gamma,1,None,alien,dbaasp_nonribosomal.txt,TlIxna
+DBAASPN_21366,Tripropeptin C,1,None,alien,dbaasp_nonribosomal.txt,xpPRXSXx
+DBAASPN_21367,Tripropeptin A,1,None,alien,dbaasp_nonribosomal.txt,xpPRXSXx
+DBAASPN_21368,Tripropeptin B,1,None,alien,dbaasp_nonribosomal.txt,xpPRXSXx
+DBAASPN_21369,Tripropeptin D,1,None,alien,dbaasp_nonribosomal.txt,xpPRXSXx
+DBAASPN_21370,Tripropeptin Z,1,None,alien,dbaasp_nonribosomal.txt,xpPRXSXx
+DBAASPN_21393,Cormycin A,1,None,alien,dbaasp_nonribosomal.txt,SxNxHXXXX
+DBAASPN_21405,Pseudomycin A,1,None,alien,dbaasp_nonribosomal.txt,SxDKXXXXX
+DBAASPN_21406,Syringomycin E,1,None,alien,dbaasp_nonribosomal.txt,SSXXRFXxX
+DBAASPN_21407,Syringotoxin B,1,None,alien,dbaasp_nonribosomal.txt,SXGXXTXXX
+DBAASPN_21408,Syringostatin A,1,None,alien,dbaasp_nonribosomal.txt,SXXXXTXXX
+DBAASPN_21414,Bacilotetrin A,1,None,alien,dbaasp_nonribosomal.txt,LLLE
+DBAASPN_21415,Bacilotetrin B,1,None,alien,dbaasp_nonribosomal.txt,LLLE
+DBAASPN_21416,Bacilotetrin C,1,None,alien,dbaasp_nonribosomal.txt,ELlL
+DBAASPN_21417,Isopedopeptin A,1,None,alien,dbaasp_nonribosomal.txt,XLXXTXfXD
+DBAASPN_21419,Isopedopeptin D,1,None,alien,dbaasp_nonribosomal.txt,XLXXTXfVD
+DBAASPN_21420,Isopedopeptin E,1,None,alien,dbaasp_nonribosomal.txt,XLXXTXfVD
+DBAASPN_21421,Isopedopeptin F,1,None,alien,dbaasp_nonribosomal.txt,XLXXTXfXD
+DBAASPN_21422,Isopedopeptin G,1,None,alien,dbaasp_nonribosomal.txt,XLXXTXfVD
+DBAASPN_21423,Isopedopeptin H,1,None,alien,dbaasp_nonribosomal.txt,XLXXTXfVD
+DBAASPN_21424,Isopedopeptin C,1,None,alien,dbaasp_nonribosomal.txt,XLXXTXfXD
+DBAASPN_21495,Arthroamide,1,None,alien,dbaasp_nonribosomal.txt,VaVV
+DBAASPN_21496,Turnagainolide A,1,None,alien,dbaasp_nonribosomal.txt,vAIV
+DBAASPN_21506,Putisolvin I,1,None,alien,dbaasp_nonribosomal.txt,LELIQSVISLVS
+DBAASPN_21507,Pseudophomin B,1,None,alien,dbaasp_nonribosomal.txt,LexxlsLsI
+DBAASPN_21508,Cystargamide B,1,None,alien,dbaasp_nonribosomal.txt,TFEXxG
+DBAASPN_21546,Mactanamide,1,None,alien,dbaasp_nonribosomal.txt,xx
+DBAASPN_21547,14-hydroxy-cyclopeptine,1,None,alien,dbaasp_nonribosomal.txt,XX
+DBAASPN_21559,WBP-29479A1,1,None,alien,dbaasp_nonribosomal.txt,VrSGxLrEvwX
+DBAASPN_21582,Asterripeptide A,1,None,alien,dbaasp_nonribosomal.txt,PfI
+DBAASPN_21583,Asterripeptide B,1,None,alien,dbaasp_nonribosomal.txt,PfL
+DBAASPN_21584,Asterripeptide C,1,None,alien,dbaasp_nonribosomal.txt,PfV
+DBAASPN_21588,Gageopeptin A,1,None,alien,dbaasp_nonribosomal.txt,EVLADLL
+DBAASPN_21589,Gageopeptin B,1,None,alien,dbaasp_nonribosomal.txt,EVLADLL
+DBAASPN_21590,RHM1,1,None,alien,dbaasp_nonribosomal.txt,qIXIXXXX
+DBAASPN_21591,Trichorzin HA-7,1,None,alien,dbaasp_nonribosomal.txt,XGAXXQVVXGLXPLXXQX
+DBAASPN_21592,Harzianin HC III,1,None,alien,dbaasp_nonribosomal.txt,XNLXPSVXPxLXPX
+DBAASPN_21593,Trikoningin KB-I,1,None,alien,dbaasp_nonribosomal.txt,XGVXGGVXGIX
+DBAASPN_21594,Acremolide A,1,None,alien,dbaasp_nonribosomal.txt,fP
+DBAASPN_21595,Acremolide B,1,None,alien,dbaasp_nonribosomal.txt,fP
+DBAASPN_21596,Acremolide C,1,None,alien,dbaasp_nonribosomal.txt,xP
+DBAASPN_21597,Acremolide D,1,None,alien,dbaasp_nonribosomal.txt,vP
+DBAASPN_21601,Tolybyssidin A,1,None,alien,dbaasp_nonribosomal.txt,XVXTVVPRlTIIF
+DBAASPN_21602,Tolybyssidin B,1,None,alien,dbaasp_nonribosomal.txt,XRYMVTITVVVFV
+DBAASPN_21603,Talaropeptide A,1,None,alien,dbaasp_nonribosomal.txt,XXVTXPXXXXL
+DBAASPN_21604,Talaropeptide B,1,None,alien,dbaasp_nonribosomal.txt,XXVTVXPXXXXL
+DBAASPN_21605,Talaropeptide C,1,None,alien,dbaasp_nonribosomal.txt,XXVTXPXXXXL
+DBAASPN_21606,Talaropeptide D,1,None,alien,dbaasp_nonribosomal.txt,XXVTVXPXXXXL
+DBAASPN_21607,Minutissamide A,1,None,alien,dbaasp_nonribosomal.txt,VXNXNATXP
+DBAASPN_21608,Puwainaphycin F,1,None,alien,dbaasp_nonribosomal.txt,VXNXNATXP
+DBAASPN_21610,Kolossin A,1,None,alien,dbaasp_nonribosomal.txt,lAlVyLvxVlVxLvV
+DBAASPN_21625,Kailuin E,1,None,alien,dbaasp_nonribosomal.txt,lSTlI
+DBAASPN_21626,Serratiomycin,1,None,alien,dbaasp_nonribosomal.txt,LSXfi
+DBAASPN_21630,Pargamicin A,1,None,alien,dbaasp_nonribosomal.txt,XfXxXx
+DBAASPN_21631,Pargamicin B,1,None,alien,dbaasp_nonribosomal.txt,XfXxXx
+DBAASPN_21632,Pargamicin C,1,None,alien,dbaasp_nonribosomal.txt,XfXxXx
+DBAASPN_21633,Pargamicin D,1,None,alien,dbaasp_nonribosomal.txt,XfXxXx
+DBAASPN_21634,Vancomycin,1,None,alien,dbaasp_nonribosomal.txt,xxNxxXX
+DBAASPN_21635,Natalenamide A,1,None,alien,dbaasp_nonribosomal.txt,EFV
+DBAASPN_21636,Natalenamide B,1,None,alien,dbaasp_nonribosomal.txt,EFL
+DBAASPN_21637,Natalenamide C,1,None,alien,dbaasp_nonribosomal.txt,EFF
+DBAASPN_21664,Simplicilliumtide B,1,None,alien,dbaasp_nonribosomal.txt,XxVX
+DBAASPN_21665,Simplicilliumtide C,1,None,alien,dbaasp_nonribosomal.txt,XxL
+DBAASPN_21666,Simplicilliumtide D,1,None,alien,dbaasp_nonribosomal.txt,XxL
+DBAASPN_21667,Simplicilliumtide E,1,None,alien,dbaasp_nonribosomal.txt,XxL
+DBAASPN_21668,Simplicilliumtide F,1,None,alien,dbaasp_nonribosomal.txt,VxL
+DBAASPN_21669,Simplicilliumtide G,1,None,alien,dbaasp_nonribosomal.txt,Xx
+DBAASPN_21670,Simplicilliumtide H,1,None,alien,dbaasp_nonribosomal.txt,Xx
+DBAASPN_21675,Isaridin I,1,None,alien,dbaasp_nonribosomal.txt,PFXXX
+DBAASPN_21676,Isaridin J,1,None,alien,dbaasp_nonribosomal.txt,PYXXX
+DBAASPN_21677,Isaridin L,1,None,alien,dbaasp_nonribosomal.txt,PFXXX
+DBAASPN_21678,Isaridin M,1,None,alien,dbaasp_nonribosomal.txt,PFXXX
+DBAASPN_21683,Homoserine lactone,1,None,alien,dbaasp_nonribosomal.txt,X
+DBAASPN_21692,ASP2397,1,None,alien,dbaasp_nonribosomal.txt,NLfXXX
+DBAASPN_21693,AS2524371,1,None,alien,dbaasp_nonribosomal.txt,NLlXXX
+DBAASPN_21694,Aspergillicin A,1,None,alien,dbaasp_nonribosomal.txt,TxPPXV
+DBAASPN_21695,Aspergillicin C,1,None,alien,dbaasp_nonribosomal.txt,TxPPXV
+DBAASPN_21696,Aspergillicin H,1,None,alien,dbaasp_nonribosomal.txt,TvPPXV
+DBAASPN_21709,Destruxin A,1,None,alien,dbaasp_nonribosomal.txt,PIXXX
+DBAASPN_21710,Destruxin B,1,None,alien,dbaasp_nonribosomal.txt,PIXXX
+DBAASPN_21711,Destruxin E,1,None,alien,dbaasp_nonribosomal.txt,PIXXX
+DBAASPN_21712,PM181110,1,None,alien,dbaasp_nonribosomal.txt,CC
+DBAASPN_21740,Xylomyrocin,1,None,alien,dbaasp_nonribosomal.txt,LXVXGISLX
+DBAASPN_21741,"Basifungin, Aureobasidin A",1,None,alien,dbaasp_nonribosomal.txt,XFXPiXLX
+DBAASPN_21746,Persephacin,1,None,alien,dbaasp_nonribosomal.txt,XXXPXXLX
+DBAASPN_21749,Ophiotine,1,None,alien,dbaasp_nonribosomal.txt,qTXwSf
+DBAASPN_21750,Arthrichitin,1,None,alien,dbaasp_nonribosomal.txt,exS
+DBAASPN_21751,Arthrichitin C,1,None,alien,dbaasp_nonribosomal.txt,xxS
+DBAASPN_21761,Cyclo(Leu-Tyr),1,None,alien,dbaasp_nonribosomal.txt,LY
+DBAASPN_21765,Phaeosphamide A,1,None,alien,dbaasp_nonribosomal.txt,FPGxXIXVX
+DBAASPN_21766,Microspinosamide,1,None,alien,dbaasp_nonribosomal.txt,aXPXXwRxTXvPd
+DBAASPN_21767,Sclerotiotide L,1,None,alien,dbaasp_nonribosomal.txt,XXX
+DBAASPN_21768,Sclerotiotide M,1,None,alien,dbaasp_nonribosomal.txt,XXX
+DBAASPN_21769,Sclerotiotide N,1,None,alien,dbaasp_nonribosomal.txt,XXX
+DBAASPN_21770,Sclerotiotide O,1,None,alien,dbaasp_nonribosomal.txt,XXX
+DBAASPN_21771,Halovir A,1,None,alien,dbaasp_nonribosomal.txt,XXLVQX
+DBAASPN_21780,Turnercyclamycin A,1,None,alien,dbaasp_nonribosomal.txt,XSVxXTGXxXAxE
+DBAASPN_21781,Turnercyclamycin B,1,None,alien,dbaasp_nonribosomal.txt,XSVxXTGXxXAxE
+DBAASPN_21784,Hemiasterlin A,1,None,alien,dbaasp_nonribosomal.txt,XXX
+DBAASPN_22015,"Penicillatide B, cyclo(Pro–2-OH–Phe)",1,None,alien,dbaasp_nonribosomal.txt,PX
+DBAASPN_22016,Exumolide B,1,None,alien,dbaasp_nonribosomal.txt,PLFFP
+DBAASPN_22017,Exumolide A,1,None,alien,dbaasp_nonribosomal.txt,PXFFP
+DBAASPN_22028,Lagunamide A,1,None,alien,dbaasp_nonribosomal.txt,AxXXX
+DBAASPN_22029,Lagunamide B,1,None,alien,dbaasp_nonribosomal.txt,AxXXX
+DBAASPN_22040,Mirabamide A,1,None,alien,dbaasp_nonribosomal.txt,GTXXxxGAXxX
+DBAASPN_22041,Mirabamide B,1,None,alien,dbaasp_nonribosomal.txt,GTXXxxGAXxX
+DBAASPN_22042,Mirabamide C,1,None,alien,dbaasp_nonribosomal.txt,GTXXxxGAXxX
+DBAASPN_22043,Mirabamide D,1,None,alien,dbaasp_nonribosomal.txt,GTXXxxGAXxX
+DBAASPN_22044,Papuamide A,1,None,alien,dbaasp_nonribosomal.txt,GTXXXxGAXxX
+DBAASPN_22045,Mirabamide E,1,None,alien,dbaasp_nonribosomal.txt,GXXXxxGAXxX
+DBAASPN_22046,Mirabamide F,1,None,alien,dbaasp_nonribosomal.txt,GXXXxxGAXxX
+DBAASPN_22047,Mirabamide G,1,None,alien,dbaasp_nonribosomal.txt,GXXXxxGAXxX
+DBAASPN_22048,Mirabamide H,1,None,alien,dbaasp_nonribosomal.txt,GXXXxxGAXxX
+DBAASPN_22085,Bacipeptin,1,None,alien,dbaasp_nonribosomal.txt,HFDNLNKIQXNI
+DBAASPN_22088,Acremotin A,1,None,alien,dbaasp_nonribosomal.txt,WXQXITXLXPQXXXPF
+DBAASPN_22089,Acremotin B,1,None,alien,dbaasp_nonribosomal.txt,WXQXITXLXPQXXXXF
+DBAASPN_22090,Acremotin C,1,None,alien,dbaasp_nonribosomal.txt,WXQXITXLXPQXXXXFG
+DBAASPN_22091,Acremotin D,1,None,alien,dbaasp_nonribosomal.txt,WXQXITXLXPQXXXXFG
+DBAASPN_22092,"Acremotin, XR586",1,None,alien,dbaasp_nonribosomal.txt,WXQXITXLXPQXXXPFG
