@@ -11,7 +11,7 @@ RUN mkdir output
 
 # Install any needed packages specified in requirements.txt
 # Make sure the path to requirements.txt is correct relative to the context directory
-COPY calculateDescriptors.py /app/calculateDescriptors.py
+COPY calculateDescriptors.py /calculateDescriptors.py
 COPY requirements.txt /app/requirements.txt
 
 RUN pip install --no-cache-dir -r '/app/requirements.txt'
@@ -23,7 +23,7 @@ EXPOSE 8888
 ENV NAME World
 
 # Run Jupyter Notebook when the container launches using the correct JSON array format
-CMD [ "python", "/app/calculateDescriptors.py" ]
+CMD [ "python", "/calculateDescriptors.py" ]
 
 
 
