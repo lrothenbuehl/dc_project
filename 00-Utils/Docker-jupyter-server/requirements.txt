@@ -7,3 +7,4 @@ Seaborn
 scikit-learn
 biopython
 rdkit
+scipy
