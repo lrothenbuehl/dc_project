@@ -2,23 +2,23 @@
 
 ## Structure
 
-- 00-Utils
-    -- Contains tools used for setting up the virtual environements to work
-    -- all docker files
+* 00*Utils
+    * Contains tools used for setting up the virtual environements to work
+    * all docker files
 
-- 01-Data_Extraction
-    -- TODO: add stuff
+* 01*Data_Extraction
+    * TODO: add stuff
 
-- 02-Data_Curation
-    -- Checks data integrity
-    -- conferts csv files into unfied sqlite database
-    -- checks for contradictory data
+* 02*Data_Curation
+    * Checks data integrity
+    * conferts csv files into unfied sqlite database
+    * checks for contradictory data
 
-- 03-Data_exploration
-    -- analyize data
+* 03*Data_exploration
+    * analyize data
 
-- 04-Data_processing
-    -- provides the scripts necessairy to calculate the descriptors localy or on euler cluster
+* 04*Data_processing
+    * provides the scripts necessairy to calculate the descriptors localy or on euler cluster
 
 
 
