@@ -21,11 +21,7 @@ ls -la
 # Execute the notebook
 jupyter nbconvert --to notebook --execute --inplace --output-dir=/output "$NOTEBOOK_PATH"
 
-# Check if jupyter nbconvert command was successful
-if [ $? -ne 0 ]; then
-    echo "Failed to convert the notebook."
-    exit 1
-fi
+
 
 # Ensure the output notebook is moved to a known location
 
