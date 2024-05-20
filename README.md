@@ -22,7 +22,7 @@ PS: The first time you start it might take a while because docker needs to build
 
 * 02-Data_Curation
     * Checks data integrity
-    * conferts csv files into unfied sqlite database
+    * converts csv files into unfied sqlite database
     * checks for contradictory data
 
 * 03-Data_exploration
