@@ -22,7 +22,7 @@ def EDA_dag():
         task_id="run_EDA",
         input_nb="/mnt/03-EDA/DataExploration.ipynb",
         output_nb="/mnt/03-EDA/DataExploration-executed.ipynb",
-        parameters={"execution_date": "{{ execution_date }}"},
+        parameters={"execution_date": "{{ execution_date }}", "virtual_env":"True"},
         outlets=[EDA_report]
     )
     
