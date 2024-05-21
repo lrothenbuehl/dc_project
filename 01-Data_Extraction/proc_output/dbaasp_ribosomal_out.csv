@@ -2632,7 +2632,7 @@ DBAASPR_16493,"M-poneratoxin-Dq3a, Dq-2562",1,None,alien,dbaasp_ribosomal.txt,FW
 DBAASPR_16498,"M-poneratoxin-Dq4e, Dq-3348 ",1,None,alien,dbaasp_ribosomal.txt,GLKDWWNKHKDKIVKVVKEMGKAGINAAGK
 DBAASPR_16519,Bacteriocin Curvacin-A,1,None,alien,dbaasp_ribosomal.txt,ARSYGNGVYCNNKKCWVNRGEATQSIIGGMISGWASGLAGM
 DBAASPR_16529,Css54-AMD,1,None,alien,dbaasp_ribosomal.txt,FFGSLLSLGSKLLPSVFKLFQRKKE
-DBAASPR_16530,"Ponericin-L1, U1-poneritoxin-Ng2a, Bm‑ponericin‑L1",1,None,alien,dbaasp_ribosomal.txt,LLKELWTKMKGAGKAVLGKIKGLL
+DBAASPR_16530,"Ponericin-L1, U1-poneritoxin-Ng2a, Bmâ€‘ponericinâ€‘L1",1,None,alien,dbaasp_ribosomal.txt,LLKELWTKMKGAGKAVLGKIKGLL
 DBAASPR_16974,"Phylloseptin-PV1, PPV1",1,None,alien,dbaasp_ribosomal.txt,FLSLIPKIAGGIAALVKNL
 DBAASPR_17030,PN-CATH1,1,None,alien,dbaasp_ribosomal.txt,KKCNFFCKLKKKVKSVGSRNLIGSATHHHRIYRV
 DBAASPR_17031,PN-CATH2,1,None,alien,dbaasp_ribosomal.txt,EGCNILCLLKRKVKAVKNVVKNVVKSVVG
@@ -2781,7 +2781,7 @@ DBAASPR_19387,Mt NCR645,1,None,alien,dbaasp_ribosomal.txt,KCYQDSDCPKDMCSFLFKPKCI
 DBAASPR_19388,Mt NCR147,1,None,alien,dbaasp_ribosomal.txt,AYIECEVDDDCPKPMKNSHPDTYYKCVKHRCQWAWK
 DBAASPR_19477,Cathelicidin To-KL37,1,None,alien,dbaasp_ribosomal.txt,KLFGKVGNLLQKGWQKIKNIGRRIKDFFRNIRPMQEA
 DBAASPR_19481,Tremporin-1Cec,1,None,alien,dbaasp_ribosomal.txt,IIPLPLGYFAKKT
-DBAASPR_19511,HSV gB(613–631),1,None,alien,dbaasp_ribosomal.txt,GENNELRLTRDAI
+DBAASPR_19511,HSV gB(613â€“631),1,None,alien,dbaasp_ribosomal.txt,GENNELRLTRDAI
 DBAASPR_19515,Bacteriocin TP,1,None,alien,dbaasp_ribosomal.txt,ASVVNKLTGGVAGLLK
 DBAASPR_19588,Temporin-1CEh,1,None,alien,dbaasp_ribosomal.txt,FVDLKKIANILNSIF
 DBAASPR_19597,Cathelicidin HA-CATH,1,None,alien,dbaasp_ribosomal.txt,ILGRLRDLLRRGGRKIGQGLERIGQRIQGFFSNREPMEES
@@ -2798,7 +2798,7 @@ DBAASPR_19892,Cathelicidin antimicrobial peptide RL-37,1,None,alien,dbaasp_ribos
 DBAASPR_19964,"Lantibiotic NAI-107, Microbisporicin",1,None,alien,dbaasp_ribosomal.txt,VXSXXLCTPGCTSXGGGSNCSFCx
 DBAASPR_19989,"Triculamin, Alboverticillin",1,None,alien,dbaasp_ribosomal.txt,SKKSKPGDGIRGKGVRG
 DBAASPR_20021,"Latarcin-3a, Ltc-3a",1,None,alien,dbaasp_ribosomal.txt,SWKSMAKKLKEYMEKLKQRA
-DBAASPR_20067,Myticofensin B3-α,1,None,alien,dbaasp_ribosomal.txt,KCDWWCRY
+DBAASPR_20067,Myticofensin B3-Î±,1,None,alien,dbaasp_ribosomal.txt,KCDWWCRY
 DBAASPR_20074,Nocardiotide A,1,None,alien,dbaasp_ribosomal.txt,AWIWLV
 DBAASPR_20084,Reniochalistatin A,1,None,alien,dbaasp_ribosomal.txt,PNVIPLL
 DBAASPR_20085,Reniochalistatin B,1,None,alien,dbaasp_ribosomal.txt,PIFYLPL
@@ -2937,15 +2937,15 @@ DBAASPR_21479,Integerrimide A,1,None,alien,dbaasp_ribosomal.txt,GLLLTPW
 DBAASPR_21480,Chevalierin A,1,None,alien,dbaasp_ribosomal.txt,AIMGIPIL
 DBAASPR_21481,orbitide PLP-53,1,None,alien,dbaasp_ribosomal.txt,GSRIWVPGLGPVYEED
 DBAASPR_21482,[1-8-NalphaC]-Zanriorb A1,1,None,alien,dbaasp_ribosomal.txt,GGFFPPGF
-DBAASPR_21488,Orbitide  [1−9-NαC]-Crourorb A1,1,None,alien,dbaasp_ribosomal.txt,GSLGAFGNL
+DBAASPR_21488,Orbitide  [1âˆ’9-NÎ±C]-Crourorb A1,1,None,alien,dbaasp_ribosomal.txt,GSLGAFGNL
 DBAASPR_21489,PLP-2,1,None,alien,dbaasp_ribosomal.txt,DLFVPPID
 DBAASPR_21490,PLP-12,1,None,alien,dbaasp_ribosomal.txt,FVGGTSFD
 DBAASPR_21491,Xanthoxycyclin D,1,None,alien,dbaasp_ribosomal.txt,AVQFLGTV
 DBAASPR_21492,Evolidine,1,None,alien,dbaasp_ribosomal.txt,NLSFLPV
 DBAASPR_21493,Xanthoxycyclin F,1,None,alien,dbaasp_ribosomal.txt,AFVVPPRIS
 DBAASPR_21494,Dianthiamide A,1,None,alien,dbaasp_ribosomal.txt,GFLPPIN
-DBAASPR_21497,[1–9-NαC]-linusorb B3/LOB3,1,None,alien,dbaasp_ribosomal.txt,ILVPPFFLI
-DBAASPR_21498,[1–9-NαC]-linusorb B2/LOB2,1,None,alien,dbaasp_ribosomal.txt,MLIPPFFVI
+DBAASPR_21497,[1â€“9-NÎ±C]-linusorb B3/LOB3,1,None,alien,dbaasp_ribosomal.txt,ILVPPFFLI
+DBAASPR_21498,[1â€“9-NÎ±C]-linusorb B2/LOB2,1,None,alien,dbaasp_ribosomal.txt,MLIPPFFVI
 DBAASPR_21499,Cyclomontanin D,1,None,alien,dbaasp_ribosomal.txt,ANPGLPY
 DBAASPR_21500,MAP34-B,1,None,alien,dbaasp_ribosomal.txt,GLFGRLRDSLRRGGQKILEKVERIGDRIKDIFRG
 DBAASPR_21501,CATH 1,1,None,alien,dbaasp_ribosomal.txt,RITKQPWAPPQAARICQFVLIRVCR
@@ -3014,7 +3014,7 @@ DBAASPR_22057,"Cyclolinopeptide E, 1-Mso-CLE",1,None,alien,dbaasp_ribosomal.txt,
 DBAASPR_22058,"Cyclolinopeptide F, 1-Mso, 3-Mso-CLF",1,None,alien,dbaasp_ribosomal.txt,XLXPFFWV
 DBAASPR_22059,"Cyclolinopeptide G, 1-Mso, 3-Mso-CLG",1,None,alien,dbaasp_ribosomal.txt,XLXPFFWI
 DBAASPR_22063,Defensin DvirDEF-1,1,None,alien,dbaasp_ribosomal.txt,ATCDLLSFWNVKNTACVAHCLARRYKGGYCNNKAICVCRR
-DBAASPR_22068,Lanthipeptide Archalan α,1,None,alien,dbaasp_ribosomal.txt,GCGFTCSPFSTF
+DBAASPR_22068,Lanthipeptide Archalan Î±,1,None,alien,dbaasp_ribosomal.txt,GCGFTCSPFSTF
 DBAASPR_22069,Lantipeptide Avermipeptin B,1,None,alien,dbaasp_ribosomal.txt,TGGGGASXVSLLXCISAASVLLCL
 DBAASPR_22078,Andalusicin A,1,None,alien,dbaasp_ribosomal.txt,XXIXXXWXVXXXGVWASXISNNx
 DBAASPR_22086,HvAMP1,1,None,alien,dbaasp_ribosomal.txt,VLDLVTKTLEDVTKTAKGLLPL

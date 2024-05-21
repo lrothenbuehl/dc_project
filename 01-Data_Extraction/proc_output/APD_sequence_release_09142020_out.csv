@@ -809,7 +809,7 @@ id,name,AB,description,OX,dataset,seq
 ",alien,APD_sequence_release_09142020.fasta,KYYGNGVSCNKNGCTVDWSKAIGIIGNNAAANLTTGGAAGWNKG
 00850,Sakacin,1,"G (SakG, class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes)
 ",alien,APD_sequence_release_09142020.fasta,KYYGNGVSCNSHGCSVNWGQAWTCGVNHLANGGHGVC
-00634,Pediocin,1,"PA-1/ AcH (PedPA1, Pediocin CP2; class 2a bacteriocin, Gram-positive bacteria, prokaryotes; 2S=S, UCSS1a; Products: fermented ALTA 2341®; freeze-dried culture CHOOZIT™ FLAV 43) 				
+00634,Pediocin,1,"PA-1/ AcH (PedPA1, Pediocin CP2; class 2a bacteriocin, Gram-positive bacteria, prokaryotes; 2S=S, UCSS1a; Products: fermented ALTA 2341Â®; freeze-dried culture CHOOZITâ„¢ FLAV 43) 				
 ",alien,APD_sequence_release_09142020.fasta,KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC
 00635,Mesentericin,1,"Y105 (MesY105, class 2a bacteriocin, Gram-positive bacteria, prokaryotes)
 ",alien,APD_sequence_release_09142020.fasta,KYYGNGVHCTKSGCSVNWGEAASAGIHRLANGGNGFW
@@ -3695,11 +3695,11 @@ id,name,AB,description,OX,dataset,seq
 ",alien,APD_sequence_release_09142020.fasta,GFRKRFNKLVKKVKHTIKETANVSKDVAIVAGSGVAVGAAMG
 02514,VpDef,1,"(V. philippinarum defensin; mollusca/molluscs/mollusks, invertebrates, animals; UCSS1a; 4S=S)
 ",alien,APD_sequence_release_09142020.fasta,GFGCPEDEYECHNHCKNSVGCRGGYCDAGTLRQRCTCYGCNQKGRSIQE
-02515,Apo5,1,"APOC1(64¨C88) (a fragment of apolipoprotein C-1 or apoC-I; the American Alligator, crocodilian reptiles, animals; UCLL1a)
+02515,Apo5,1,"APOC1(64Â¨C88) (a fragment of apolipoprotein C-1 or apoC-I; the American Alligator, crocodilian reptiles, animals; UCLL1a)
 ",alien,APD_sequence_release_09142020.fasta,FSTKTRNWFSEHFKKVKEKLKDTFA
-02516,FGG(398¨C413),1," (a fragment of fibrinogen; the American Alligator, crocodilian reptiles, animals; UCLL1a)
+02516,FGG(398Â¨C413),1," (a fragment of fibrinogen; the American Alligator, crocodilian reptiles, animals; UCLL1a)
 ",alien,APD_sequence_release_09142020.fasta,YSLKKTSMKIIPFTRL
-02517,A1P(394¨C428),1," (a fragment of alpha-1-antiproteinase; the American Alligator, crocodilian reptiles, animals; UCLL1a)
+02517,A1P(394Â¨C428),1," (a fragment of alpha-1-antiproteinase; the American Alligator, crocodilian reptiles, animals; UCLL1a)
 ",alien,APD_sequence_release_09142020.fasta,PPPVIKFNRPFLMWIVERDTRSILFMGKIVNPKAP
 02518,Cm38,1,"(scorpions, arachnids, Chelicerata, arthropods, invertebrates, animals; BWQ, UCLL1a?)
 ",alien,APD_sequence_release_09142020.fasta,ARDGYIVDEKGCKFACFIN
@@ -3999,13 +3999,13 @@ id,name,AB,description,OX,dataset,seq
 ",alien,APD_sequence_release_09142020.fasta,SSFSPAAPLPPGTKHPCLPLSCPPCPDEECPTCEILPPCELCPEIHIGCDCPFHHSCLCDQPACPPCDFPFGSLINKGGYRG
 02697,SGCock_Contig04_0915,1,"(insects, arthropods, invertebrates, animals, UCLL1)
 ",alien,APD_sequence_release_09142020.fasta,GTFIKQQRKQKQQRHHTSGTRKRMAK
-02698,ISGCock_Contig13_4610¨C1,1,"(insects, arthropods, invertebrates, animals, UCLL1)
+02698,ISGCock_Contig13_4610Â¨C1,1,"(insects, arthropods, invertebrates, animals, UCLL1)
 ",alien,APD_sequence_release_09142020.fasta,YPCKLNLKLGKVPFHF
 02699,ISGCock_Contig16_2060,1,"(insects, arthropods, invertebrates, animals, UCLL1)
 ",alien,APD_sequence_release_09142020.fasta,ASITHVKNRGKYIYMHLKFRKTNVLI
 02700,ISGCock_Contig16_4974,1,"(insects, arthropods, invertebrates, animals, UCLL1)
 ",alien,APD_sequence_release_09142020.fasta,KKVWFIFHVCPKLKQRIL
-02701,ISGCock_Contig10_4736¨C2,1,"(insects, arthropods, invertebrates, animals, UCLL1)
+02701,ISGCock_Contig10_4736Â¨C2,1,"(insects, arthropods, invertebrates, animals, UCLL1)
 ",alien,APD_sequence_release_09142020.fasta,GTKRGKLCRISRLAL
 02702,ISGCock_Contig13_3006,1,"(insects, arthropods, invertebrates, animals, UCLL1)
 ",alien,APD_sequence_release_09142020.fasta,LRHKVYGYCVLGP
@@ -4013,9 +4013,9 @@ id,name,AB,description,OX,dataset,seq
 ",alien,APD_sequence_release_09142020.fasta,MKTFLRLYRSLINKVLHV
 02704,ISGCock_Contig12_4176,1,"(insects, arthropods, invertebrates, animals, UCLL1)
 ",alien,APD_sequence_release_09142020.fasta,VGRKHSILNCIPYLKKKKIMRL
-02705,ISGCock_Contig15_1337¨C1,1,"(insects, arthropods, invertebrates, animals, UCLL1)
+02705,ISGCock_Contig15_1337Â¨C1,1,"(insects, arthropods, invertebrates, animals, UCLL1)
 ",alien,APD_sequence_release_09142020.fasta,RMKLNAKKLSFC
-02706,ISGCock_Contig15_1337¨C2,1,"(insects, arthropods, invertebrates, animals, UCLL1)
+02706,ISGCock_Contig15_1337Â¨C2,1,"(insects, arthropods, invertebrates, animals, UCLL1)
 ",alien,APD_sequence_release_09142020.fasta,HNSSKQWSHWLWHNGIRI
 02707,Tomato,1,"Snakin-2 (plants; 6S=S; UCSS1a)
 ",alien,APD_sequence_release_09142020.fasta,DSYKKIDCGGACAARCRLSSRPRLCHRACGTCCARCNCVPPGTSGNTETCPCYASLTTHGNKRKCP
@@ -4045,9 +4045,9 @@ id,name,AB,description,OX,dataset,seq
 ",alien,APD_sequence_release_09142020.fasta,GFGSKPLDSFGLNFF
 02720,Sungsanpin,1,"( lactam;  a class 2 lasso peptide; class 1 microcin, bacteriocins; Gram-positive bacteria, prokaryotes; XXJ; UCSB1a)
 ",alien,APD_sequence_release_09142020.fasta,GFGSKPIDSFGLSWL
-02721,Gm0025x00667(75¨C100),1,"(a fragment of the enzyme flavonoid 3-hydroxylase, UCLL1)
+02721,Gm0025x00667(75Â¨C100),1,"(a fragment of the enzyme flavonoid 3-hydroxylase, UCLL1)
 ",alien,APD_sequence_release_09142020.fasta,RWRFLRKISSVHMFSVKALDDFRQL
-02722,Gm0026x00785(77¨C103),1,"(a fragment of  lipoate-protein ligase B, UCLL1)
+02722,Gm0026x00785(77Â¨C103),1,"(a fragment of  lipoate-protein ligase B, UCLL1)
 ",alien,APD_sequence_release_09142020.fasta,HKMDLHWYLRTLEEVVIRALQRFQFR
 02723,SpHyastatin,1,"(Crustaceans, arthropods, invertebrates, animals)
 ",alien,APD_sequence_release_09142020.fasta,MRVLLLLVSLAAVGNAYNAKVPIQTLPERLDNFPGRGPSFTRPAVVGVQTLPGRVPPQTFPGVIGVGTKPLISPPRPGFTGSTRPFQRPGQYSFTRSNCWARCPGYPNGDSLCCRQYGACCSTSYPVPYKG
@@ -4281,7 +4281,7 @@ id,name,AB,description,OX,dataset,seq
 ",alien,APD_sequence_release_09142020.fasta,GATPEDLNQKLS
 02859,D51,1,"(synthetic, hybrid peptide, UCLL1a)
 ",alien,APD_sequence_release_09142020.fasta,FLFRVASKVFPALIGKFKKK
-02860,Hb,1,"98¨C114 (hemoglobin residues 98-114; bovine hemocidin generated by blood sucker; cattle; mammals, animals; UCLL1a)
+02860,Hb,1,"98Â¨C114 (hemoglobin residues 98-114; bovine hemocidin generated by blood sucker; cattle; mammals, animals; UCLL1a)
 ",alien,APD_sequence_release_09142020.fasta,FKLLSHSLLVTLASHLP
 02861,P3,1,"(hemoglobin residues 97-114; cattle; mammals, animals; UCLL1a)
 ",alien,APD_sequence_release_09142020.fasta,VNFKLLSHSLLVTLASHL
@@ -4549,7 +4549,7 @@ id,name,AB,description,OX,dataset,seq
 ",alien,APD_sequence_release_09142020.fasta,MKPQSILVLLVLAVLALHCKENEAASFPWTCASLSGVCRQGVCLPSELYFGSLGCGKGFLCCVSHFG
 03019,Ps-AFP1,1,"(P. sativum antifungal peptide 1; plants; 2S=S; UCSS1a)
 ",alien,APD_sequence_release_09142020.fasta,RQLKSSRRGALVCVRLKLCSAILSRGLSCGMFSCNARR
-03020,HRNR1132¨C1143,1,"(Hornerin-derived Ser-rich; human; primates; mammals; animals; CIDAMP; UCLL1a; more AMPs?)
+03020,HRNR1132Â¨C1143,1,"(Hornerin-derived Ser-rich; human; primates; mammals; animals; CIDAMP; UCLL1a; more AMPs?)
 ",alien,APD_sequence_release_09142020.fasta,GSGSRQSPSYGR
 03021,Bldesin,1,"(defensin; fungii; 3S=S; UCSS1a)
 ",alien,APD_sequence_release_09142020.fasta,GWGCNIFGGNDYRCHRHCKSISGYKGGYCKLGGICKCY
