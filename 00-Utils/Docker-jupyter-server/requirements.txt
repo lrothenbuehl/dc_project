@@ -8,3 +8,4 @@ scikit-learn
 biopython
 rdkit
 scipy
+statsmodels
