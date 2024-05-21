@@ -1,11 +1,12 @@
 from datetime import datetime
-from airflow.decorators import dag, task
+from airflow.decorators import dag
+from airflow.models.baseoperator import chain
 from airflow.datasets import Dataset
 from airflow.providers.papermill.operators.papermill import PapermillOperator
 
-# Define the dataset
+# Define the datasets
 unified_db = Dataset('/mnt/02-Data_Curation/unified.db')
-EDA_report = Dataset('/mnt/03-Data_exploration/DataExploration-executed.ipynb')
+EDA_report = Dataset('/mnt/03-EDA/DataExploration-executed.ipynb')
 
 @dag(
     dag_id='EDA',
@@ -15,17 +16,16 @@ EDA_report = Dataset('/mnt/03-Data_exploration/DataExploration-executed.ipynb')
     template_searchpath='/usr/local/airflow/include',
     catchup=False
 )
-def data_producer_dag():
-    
-    @task(outlets=[EDA_report])
-    def run_EDA():
-        return PapermillOperator(
-            task_id="run_EDA",
-            input_nb="/mnt/03-Data_exploration/DataExploration.ipynb",
-            output_nb="/mnt/03-Data_exploration/DataExploration-executed.ipynb",
-            parameters={"execution_date": "{{ execution_date }}", "virtual_env": "True"},
-        ).execute({})
-    
-    run_EDA()
+def EDA_dag():
 
-data_producer_dag = data_producer_dag()
+    run_EDA = PapermillOperator(
+        task_id="run_EDA",
+        input_nb="/mnt/03-EDA/DataExploration.ipynb",
+        output_nb="/mnt/03-EDA/DataExploration-executed.ipynb",
+        parameters={"execution_date": "{{ execution_date }}"},
+        outlets=[EDA_report]
+    )
+    
+    chain(run_EDA)
+
+data_producer_dag = EDA_dag()
