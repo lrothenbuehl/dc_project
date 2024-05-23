@@ -7,5 +7,5 @@ Seaborn
 scikit-learn
 biopython
 rdkit
-tqdm
-propy3
+scipy
+statsmodels
